@@ -1,0 +1,8 @@
+flask
+torch
+transformers
+pandas
+scikit-learn
+fbprophet
+jupyter
+matplotlib
