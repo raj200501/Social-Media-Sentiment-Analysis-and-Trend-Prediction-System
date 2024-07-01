@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:3000"
+    command: ["npm", "start"]
+    volumes:
+      - ./frontend:/frontend
+    working_dir: /frontend
