@@ -1,10 +1,8 @@
-FROM python:3.8-slim
+FROM python:3.11-slim
 
 WORKDIR /app
 
-COPY requirements.txt requirements.txt
-RUN pip install -r requirements.txt
-
 COPY . .
 
-CMD ["python", "backend/api/api_server.py"]
+EXPOSE 5000
+CMD ["python", "-m", "api.api_server"]

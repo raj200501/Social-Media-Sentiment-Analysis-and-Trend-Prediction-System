@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Social Media Sentiment Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Social Media Sentiment Analysis and Trend Prediction</h1>
+      <p>Local dashboard served from the Python API.</p>
+    </header>
+
+    <section class="panel">
+      <h2>Quick Sentiment Check</h2>
+      <div class="sentiment-form">
+        <input id="sentiment-input" type="text" placeholder="Paste a post here" />
+        <button id="sentiment-submit">Analyze</button>
+      </div>
+      <div id="sentiment-result" class="result"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Average Sentiment by Day</h2>
+      <canvas id="sentiment-chart" width="800" height="300"></canvas>
+    </section>
+
+    <section class="panel">
+      <h2 id="trend-title">Trending Topic</h2>
+      <canvas id="trend-chart" width="800" height="300"></canvas>
+    </section>
+
+    <section class="panel">
+      <h2>Trend Forecast</h2>
+      <button id="forecast-button">Generate 7-day forecast</button>
+      <ul id="forecast-list"></ul>
+    </section>
+
+    <script src="app.js"></script>
+  </body>
+</html>

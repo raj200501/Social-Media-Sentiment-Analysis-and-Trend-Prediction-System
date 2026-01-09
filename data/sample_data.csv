@@ -1,1 +1,1461 @@
-
+id,created_at,platform,content,likes,shares
+1,2023-01-01,reddit,reading the announcement #productivity on reddit.,114,35
+2,2023-01-01,twitter,checking the dashboard #security on twitter.,15,23
+3,2023-01-01,threads,love the new update #dataviz on threads.,214,56
+4,2023-01-01,reddit,awful UI change #ai on reddit.,357,108
+5,2023-01-02,mastodon,excited for the feature #dataviz on mastodon.,52,23
+6,2023-01-02,threads,pleasant surprise #sustainability on threads.,135,11
+7,2023-01-02,twitter,checking the dashboard #security on twitter.,282,75
+8,2023-01-02,twitter,reviewing the metrics #dataviz on twitter.,23,169
+9,2023-01-03,reddit,amazing support #opensource on reddit.,443,25
+10,2023-01-03,reddit,happy with the results #sustainability on reddit.,189,90
+11,2023-01-03,threads,amazing support #opensource on threads.,325,43
+12,2023-01-03,instagram,disappointed with the update #ml on instagram.,194,69
+13,2023-01-04,twitter,sharing the documentation #sustainability on twitter.,117,8
+14,2023-01-04,twitter,attending the webinar #productivity on twitter.,108,145
+15,2023-01-04,instagram,reviewing the metrics #dataviz on instagram.,202,164
+16,2023-01-04,reddit,awful UI change #ml on reddit.,381,143
+17,2023-01-05,mastodon,confusing instructions #security on mastodon.,112,35
+18,2023-01-05,twitter,frustrating bug #ai on twitter.,78,160
+19,2023-01-05,instagram,solid improvement #opensource on instagram.,195,152
+20,2023-01-05,twitter,running the demo #ai on twitter.,349,137
+21,2023-01-06,mastodon,reviewing the metrics #opensource on mastodon.,222,40
+22,2023-01-06,threads,awful UI change #ml on threads.,467,27
+23,2023-01-06,reddit,running the demo #dataviz on reddit.,191,195
+24,2023-01-06,instagram,love the new update #sustainability on instagram.,9,28
+25,2023-01-07,twitter,running the demo #dataviz on twitter.,123,145
+26,2023-01-07,twitter,checking the dashboard #cloud on twitter.,500,194
+27,2023-01-07,instagram,terrible outage #ml on instagram.,484,140
+28,2023-01-07,threads,solid improvement #dataviz on threads.,386,186
+29,2023-01-08,mastodon,running the demo #security on mastodon.,224,132
+30,2023-01-08,twitter,disappointed with the update #dataviz on twitter.,173,5
+31,2023-01-08,twitter,disappointed with the update #dataviz on twitter.,36,181
+32,2023-01-08,twitter,sharing the documentation #opensource on twitter.,440,84
+33,2023-01-09,instagram,great experience #productivity on instagram.,109,138
+34,2023-01-09,instagram,happy with the results #dataviz on instagram.,413,104
+35,2023-01-09,mastodon,fantastic release #security on mastodon.,216,105
+36,2023-01-09,twitter,bad experience #opensource on twitter.,206,186
+37,2023-01-10,reddit,fantastic release #dataviz on reddit.,97,137
+38,2023-01-10,mastodon,confusing instructions #ml on mastodon.,236,63
+39,2023-01-10,threads,checking the dashboard #cloud on threads.,50,12
+40,2023-01-10,reddit,reading the announcement #opensource on reddit.,85,104
+41,2023-01-11,twitter,disappointed with the update #security on twitter.,84,97
+42,2023-01-11,instagram,solid improvement #productivity on instagram.,146,108
+43,2023-01-11,reddit,noting the release schedule #ml on reddit.,151,55
+44,2023-01-11,twitter,reading the announcement #sustainability on twitter.,25,149
+45,2023-01-12,threads,terrible outage #ai on threads.,41,47
+46,2023-01-12,instagram,fantastic release #dataviz on instagram.,61,145
+47,2023-01-12,instagram,love the new update #opensource on instagram.,336,149
+48,2023-01-12,reddit,slow performance #productivity on reddit.,342,183
+49,2023-01-13,reddit,amazing support #security on reddit.,343,165
+50,2023-01-13,twitter,pleasant surprise #opensource on twitter.,234,159
+51,2023-01-13,threads,checking the dashboard #opensource on threads.,109,129
+52,2023-01-13,reddit,pleasant surprise #opensource on reddit.,189,72
+53,2023-01-14,threads,amazing support #ai on threads.,153,169
+54,2023-01-14,twitter,excited for the feature #productivity on twitter.,455,27
+55,2023-01-14,mastodon,monitoring the rollout #productivity on mastodon.,309,53
+56,2023-01-14,threads,sharing the documentation #productivity on threads.,250,64
+57,2023-01-15,instagram,reading the announcement #opensource on instagram.,424,70
+58,2023-01-15,mastodon,pleasant surprise #ml on mastodon.,82,189
+59,2023-01-15,twitter,confusing instructions #ai on twitter.,38,176
+60,2023-01-15,threads,reading the announcement #sustainability on threads.,282,37
+61,2023-01-16,mastodon,bad experience #productivity on mastodon.,460,10
+62,2023-01-16,twitter,sharing the documentation #dataviz on twitter.,181,199
+63,2023-01-16,reddit,confusing instructions #ml on reddit.,442,41
+64,2023-01-16,twitter,monitoring the rollout #security on twitter.,91,188
+65,2023-01-17,mastodon,attending the webinar #dataviz on mastodon.,81,179
+66,2023-01-17,reddit,love the new update #cloud on reddit.,102,117
+67,2023-01-17,twitter,great experience #dataviz on twitter.,337,49
+68,2023-01-17,mastodon,amazing support #opensource on mastodon.,179,164
+69,2023-01-18,twitter,slow performance #ai on twitter.,449,66
+70,2023-01-18,twitter,amazing support #ai on twitter.,305,111
+71,2023-01-18,threads,pleasant surprise #security on threads.,261,29
+72,2023-01-18,twitter,great experience #productivity on twitter.,362,111
+73,2023-01-19,instagram,great experience #sustainability on instagram.,35,170
+74,2023-01-19,mastodon,reviewing the metrics #opensource on mastodon.,259,79
+75,2023-01-19,mastodon,reviewing the metrics #security on mastodon.,283,32
+76,2023-01-19,threads,solid improvement #ml on threads.,291,77
+77,2023-01-20,mastodon,bad experience #productivity on mastodon.,107,110
+78,2023-01-20,instagram,reviewing the metrics #cloud on instagram.,226,172
+79,2023-01-20,twitter,happy with the results #ml on twitter.,145,131
+80,2023-01-20,reddit,reviewing the metrics #opensource on reddit.,344,79
+81,2023-01-21,twitter,great experience #ml on twitter.,23,62
+82,2023-01-21,instagram,checking the dashboard #cloud on instagram.,453,161
+83,2023-01-21,instagram,confusing instructions #cloud on instagram.,124,37
+84,2023-01-21,instagram,reading the announcement #opensource on instagram.,112,45
+85,2023-01-22,threads,noting the release schedule #ai on threads.,127,31
+86,2023-01-22,instagram,unhappy with support #sustainability on instagram.,313,184
+87,2023-01-22,reddit,attending the webinar #cloud on reddit.,380,121
+88,2023-01-22,threads,disappointed with the update #productivity on threads.,248,160
+89,2023-01-23,mastodon,happy with the results #opensource on mastodon.,120,69
+90,2023-01-23,reddit,fantastic release #ml on reddit.,118,98
+91,2023-01-23,instagram,sharing the documentation #opensource on instagram.,208,84
+92,2023-01-23,reddit,confusing instructions #ai on reddit.,426,107
+93,2023-01-24,instagram,love the new update #security on instagram.,3,90
+94,2023-01-24,threads,solid improvement #security on threads.,382,188
+95,2023-01-24,reddit,disappointed with the update #cloud on reddit.,139,111
+96,2023-01-24,instagram,confusing instructions #sustainability on instagram.,370,42
+97,2023-01-25,instagram,monitoring the rollout #ai on instagram.,303,144
+98,2023-01-25,reddit,checking the dashboard #security on reddit.,443,118
+99,2023-01-25,mastodon,amazing support #security on mastodon.,108,116
+100,2023-01-25,instagram,solid improvement #productivity on instagram.,129,20
+101,2023-01-26,reddit,bad experience #sustainability on reddit.,332,17
+102,2023-01-26,reddit,reading the announcement #ai on reddit.,102,5
+103,2023-01-26,instagram,sharing the documentation #ml on instagram.,342,29
+104,2023-01-26,mastodon,disappointed with the update #cloud on mastodon.,392,94
+105,2023-01-27,mastodon,fantastic release #ml on mastodon.,55,148
+106,2023-01-27,instagram,amazing support #security on instagram.,482,183
+107,2023-01-27,mastodon,great experience #opensource on mastodon.,435,175
+108,2023-01-27,mastodon,checking the dashboard #ai on mastodon.,272,109
+109,2023-01-28,twitter,checking the dashboard #sustainability on twitter.,434,107
+110,2023-01-28,mastodon,checking the dashboard #security on mastodon.,325,117
+111,2023-01-28,threads,attending the webinar #ml on threads.,494,166
+112,2023-01-28,instagram,happy with the results #cloud on instagram.,422,187
+113,2023-01-29,twitter,slow performance #dataviz on twitter.,142,115
+114,2023-01-29,mastodon,happy with the results #security on mastodon.,14,126
+115,2023-01-29,reddit,monitoring the rollout #cloud on reddit.,181,66
+116,2023-01-29,threads,amazing support #ai on threads.,485,48
+117,2023-01-30,threads,solid improvement #cloud on threads.,388,61
+118,2023-01-30,twitter,noting the release schedule #cloud on twitter.,47,75
+119,2023-01-30,threads,great experience #productivity on threads.,188,121
+120,2023-01-30,threads,slow performance #security on threads.,169,90
+121,2023-01-31,mastodon,running the demo #productivity on mastodon.,118,30
+122,2023-01-31,threads,reviewing the metrics #opensource on threads.,486,195
+123,2023-01-31,instagram,sharing the documentation #dataviz on instagram.,141,185
+124,2023-01-31,reddit,awful UI change #opensource on reddit.,151,58
+125,2023-02-01,threads,amazing support #ai on threads.,64,70
+126,2023-02-01,reddit,love the new update #productivity on reddit.,326,192
+127,2023-02-01,instagram,bad experience #productivity on instagram.,245,112
+128,2023-02-01,instagram,love the new update #productivity on instagram.,58,16
+129,2023-02-02,reddit,frustrating bug #ai on reddit.,76,144
+130,2023-02-02,twitter,checking the dashboard #dataviz on twitter.,285,195
+131,2023-02-02,instagram,disappointed with the update #security on instagram.,465,113
+132,2023-02-02,threads,solid improvement #productivity on threads.,317,15
+133,2023-02-03,reddit,checking the dashboard #dataviz on reddit.,135,169
+134,2023-02-03,threads,great experience #ml on threads.,38,40
+135,2023-02-03,mastodon,happy with the results #cloud on mastodon.,16,59
+136,2023-02-03,twitter,amazing support #cloud on twitter.,351,59
+137,2023-02-04,twitter,sharing the documentation #security on twitter.,278,57
+138,2023-02-04,twitter,running the demo #ml on twitter.,30,42
+139,2023-02-04,twitter,running the demo #cloud on twitter.,239,176
+140,2023-02-04,threads,solid improvement #productivity on threads.,276,126
+141,2023-02-05,mastodon,bad experience #security on mastodon.,309,64
+142,2023-02-05,mastodon,great experience #ai on mastodon.,295,10
+143,2023-02-05,threads,monitoring the rollout #cloud on threads.,333,113
+144,2023-02-05,instagram,monitoring the rollout #security on instagram.,496,23
+145,2023-02-06,mastodon,confusing instructions #sustainability on mastodon.,343,26
+146,2023-02-06,instagram,reviewing the metrics #security on instagram.,147,169
+147,2023-02-06,twitter,reading the announcement #cloud on twitter.,161,64
+148,2023-02-06,threads,solid improvement #ai on threads.,236,105
+149,2023-02-07,instagram,pleasant surprise #cloud on instagram.,389,13
+150,2023-02-07,instagram,excited for the feature #productivity on instagram.,450,178
+151,2023-02-07,reddit,bad experience #dataviz on reddit.,159,141
+152,2023-02-07,reddit,solid improvement #opensource on reddit.,430,29
+153,2023-02-08,instagram,frustrating bug #ml on instagram.,477,183
+154,2023-02-08,instagram,amazing support #security on instagram.,241,62
+155,2023-02-08,reddit,terrible outage #security on reddit.,471,153
+156,2023-02-08,mastodon,terrible outage #opensource on mastodon.,395,106
+157,2023-02-09,mastodon,amazing support #ai on mastodon.,371,76
+158,2023-02-09,instagram,noting the release schedule #ml on instagram.,275,123
+159,2023-02-09,mastodon,solid improvement #cloud on mastodon.,445,48
+160,2023-02-09,reddit,sharing the documentation #security on reddit.,438,198
+161,2023-02-10,instagram,slow performance #cloud on instagram.,197,169
+162,2023-02-10,twitter,monitoring the rollout #cloud on twitter.,64,128
+163,2023-02-10,instagram,reviewing the metrics #opensource on instagram.,51,134
+164,2023-02-10,instagram,reading the announcement #ml on instagram.,445,167
+165,2023-02-11,mastodon,checking the dashboard #cloud on mastodon.,173,159
+166,2023-02-11,threads,checking the dashboard #sustainability on threads.,194,81
+167,2023-02-11,threads,noting the release schedule #ai on threads.,35,60
+168,2023-02-11,twitter,running the demo #dataviz on twitter.,222,25
+169,2023-02-12,reddit,checking the dashboard #cloud on reddit.,355,76
+170,2023-02-12,twitter,reading the announcement #sustainability on twitter.,150,91
+171,2023-02-12,threads,excited for the feature #dataviz on threads.,210,144
+172,2023-02-12,reddit,monitoring the rollout #ml on reddit.,40,156
+173,2023-02-13,threads,sharing the documentation #cloud on threads.,73,59
+174,2023-02-13,mastodon,awful UI change #cloud on mastodon.,341,2
+175,2023-02-13,threads,noting the release schedule #productivity on threads.,80,18
+176,2023-02-13,instagram,slow performance #productivity on instagram.,353,64
+177,2023-02-14,instagram,awful UI change #dataviz on instagram.,436,123
+178,2023-02-14,threads,solid improvement #sustainability on threads.,151,179
+179,2023-02-14,twitter,solid improvement #productivity on twitter.,289,175
+180,2023-02-14,mastodon,reading the announcement #cloud on mastodon.,397,58
+181,2023-02-15,reddit,reviewing the metrics #dataviz on reddit.,317,64
+182,2023-02-15,twitter,monitoring the rollout #opensource on twitter.,158,112
+183,2023-02-15,twitter,pleasant surprise #ml on twitter.,465,75
+184,2023-02-15,reddit,solid improvement #ml on reddit.,67,138
+185,2023-02-16,reddit,reviewing the metrics #productivity on reddit.,131,123
+186,2023-02-16,twitter,running the demo #sustainability on twitter.,239,19
+187,2023-02-16,threads,great experience #security on threads.,187,23
+188,2023-02-16,threads,reading the announcement #productivity on threads.,63,116
+189,2023-02-17,mastodon,amazing support #security on mastodon.,55,172
+190,2023-02-17,threads,love the new update #sustainability on threads.,113,165
+191,2023-02-17,instagram,happy with the results #productivity on instagram.,59,35
+192,2023-02-17,instagram,love the new update #productivity on instagram.,59,24
+193,2023-02-18,instagram,excited for the feature #security on instagram.,189,171
+194,2023-02-18,instagram,attending the webinar #ml on instagram.,335,25
+195,2023-02-18,twitter,attending the webinar #productivity on twitter.,353,94
+196,2023-02-18,mastodon,happy with the results #dataviz on mastodon.,50,175
+197,2023-02-19,instagram,pleasant surprise #ai on instagram.,141,48
+198,2023-02-19,reddit,noting the release schedule #opensource on reddit.,328,163
+199,2023-02-19,mastodon,bad experience #ai on mastodon.,124,32
+200,2023-02-19,threads,sharing the documentation #opensource on threads.,106,150
+201,2023-02-20,reddit,great experience #sustainability on reddit.,403,152
+202,2023-02-20,threads,excited for the feature #ml on threads.,128,44
+203,2023-02-20,twitter,love the new update #ml on twitter.,183,60
+204,2023-02-20,mastodon,bad experience #ml on mastodon.,26,32
+205,2023-02-21,instagram,checking the dashboard #opensource on instagram.,229,199
+206,2023-02-21,threads,fantastic release #cloud on threads.,113,157
+207,2023-02-21,twitter,amazing support #cloud on twitter.,31,122
+208,2023-02-21,instagram,attending the webinar #opensource on instagram.,364,113
+209,2023-02-22,threads,fantastic release #sustainability on threads.,75,16
+210,2023-02-22,threads,pleasant surprise #security on threads.,271,75
+211,2023-02-22,twitter,confusing instructions #opensource on twitter.,436,167
+212,2023-02-22,instagram,sharing the documentation #security on instagram.,454,58
+213,2023-02-23,instagram,unhappy with support #security on instagram.,373,24
+214,2023-02-23,mastodon,pleasant surprise #productivity on mastodon.,488,39
+215,2023-02-23,twitter,noting the release schedule #opensource on twitter.,425,21
+216,2023-02-23,reddit,fantastic release #sustainability on reddit.,284,15
+217,2023-02-24,instagram,slow performance #opensource on instagram.,181,170
+218,2023-02-24,mastodon,attending the webinar #ai on mastodon.,307,79
+219,2023-02-24,instagram,great experience #ml on instagram.,114,27
+220,2023-02-24,mastodon,pleasant surprise #opensource on mastodon.,293,57
+221,2023-02-25,twitter,reading the announcement #productivity on twitter.,92,69
+222,2023-02-25,mastodon,running the demo #sustainability on mastodon.,3,46
+223,2023-02-25,reddit,attending the webinar #opensource on reddit.,379,162
+224,2023-02-25,instagram,checking the dashboard #dataviz on instagram.,214,116
+225,2023-02-26,mastodon,pleasant surprise #productivity on mastodon.,397,145
+226,2023-02-26,reddit,bad experience #ml on reddit.,386,158
+227,2023-02-26,instagram,fantastic release #productivity on instagram.,338,108
+228,2023-02-26,mastodon,unhappy with support #security on mastodon.,110,193
+229,2023-02-27,twitter,slow performance #security on twitter.,145,173
+230,2023-02-27,twitter,noting the release schedule #productivity on twitter.,112,101
+231,2023-02-27,reddit,reading the announcement #ai on reddit.,154,54
+232,2023-02-27,mastodon,running the demo #productivity on mastodon.,61,1
+233,2023-02-28,reddit,confusing instructions #ml on reddit.,194,136
+234,2023-02-28,instagram,reviewing the metrics #opensource on instagram.,441,189
+235,2023-02-28,twitter,love the new update #cloud on twitter.,441,80
+236,2023-02-28,mastodon,confusing instructions #security on mastodon.,58,103
+237,2023-03-01,threads,pleasant surprise #ml on threads.,235,176
+238,2023-03-01,twitter,checking the dashboard #security on twitter.,124,111
+239,2023-03-01,mastodon,frustrating bug #security on mastodon.,381,86
+240,2023-03-01,threads,excited for the feature #opensource on threads.,324,29
+241,2023-03-02,mastodon,disappointed with the update #sustainability on mastodon.,372,165
+242,2023-03-02,reddit,sharing the documentation #opensource on reddit.,131,50
+243,2023-03-02,reddit,excited for the feature #opensource on reddit.,487,197
+244,2023-03-02,threads,noting the release schedule #cloud on threads.,329,162
+245,2023-03-03,reddit,reviewing the metrics #sustainability on reddit.,225,17
+246,2023-03-03,threads,awful UI change #productivity on threads.,28,90
+247,2023-03-03,instagram,awful UI change #cloud on instagram.,19,14
+248,2023-03-03,twitter,amazing support #opensource on twitter.,314,152
+249,2023-03-04,instagram,unhappy with support #ai on instagram.,465,146
+250,2023-03-04,threads,reviewing the metrics #cloud on threads.,77,15
+251,2023-03-04,threads,slow performance #opensource on threads.,330,44
+252,2023-03-04,threads,happy with the results #cloud on threads.,267,156
+253,2023-03-05,instagram,pleasant surprise #productivity on instagram.,209,198
+254,2023-03-05,twitter,love the new update #sustainability on twitter.,168,24
+255,2023-03-05,mastodon,confusing instructions #productivity on mastodon.,370,168
+256,2023-03-05,twitter,monitoring the rollout #sustainability on twitter.,298,169
+257,2023-03-06,instagram,pleasant surprise #productivity on instagram.,66,152
+258,2023-03-06,threads,checking the dashboard #productivity on threads.,192,164
+259,2023-03-06,instagram,monitoring the rollout #opensource on instagram.,260,92
+260,2023-03-06,reddit,amazing support #ml on reddit.,174,196
+261,2023-03-07,reddit,disappointed with the update #ml on reddit.,39,75
+262,2023-03-07,mastodon,checking the dashboard #ai on mastodon.,448,196
+263,2023-03-07,reddit,attending the webinar #ml on reddit.,92,177
+264,2023-03-07,twitter,monitoring the rollout #cloud on twitter.,210,93
+265,2023-03-08,threads,sharing the documentation #cloud on threads.,145,192
+266,2023-03-08,threads,noting the release schedule #dataviz on threads.,122,79
+267,2023-03-08,mastodon,noting the release schedule #dataviz on mastodon.,347,146
+268,2023-03-08,instagram,noting the release schedule #productivity on instagram.,257,135
+269,2023-03-09,threads,terrible outage #dataviz on threads.,70,64
+270,2023-03-09,threads,happy with the results #sustainability on threads.,478,26
+271,2023-03-09,twitter,checking the dashboard #productivity on twitter.,390,41
+272,2023-03-09,twitter,excited for the feature #security on twitter.,484,56
+273,2023-03-10,instagram,reviewing the metrics #ai on instagram.,27,101
+274,2023-03-10,twitter,disappointed with the update #security on twitter.,191,57
+275,2023-03-10,reddit,fantastic release #sustainability on reddit.,70,9
+276,2023-03-10,instagram,happy with the results #ml on instagram.,229,157
+277,2023-03-11,mastodon,fantastic release #ai on mastodon.,110,38
+278,2023-03-11,mastodon,confusing instructions #opensource on mastodon.,121,77
+279,2023-03-11,threads,great experience #security on threads.,234,16
+280,2023-03-11,threads,happy with the results #ai on threads.,294,61
+281,2023-03-12,twitter,running the demo #security on twitter.,314,90
+282,2023-03-12,twitter,solid improvement #ml on twitter.,268,92
+283,2023-03-12,instagram,love the new update #security on instagram.,22,162
+284,2023-03-12,twitter,pleasant surprise #productivity on twitter.,182,17
+285,2023-03-13,reddit,fantastic release #sustainability on reddit.,22,90
+286,2023-03-13,instagram,terrible outage #cloud on instagram.,323,46
+287,2023-03-13,twitter,checking the dashboard #cloud on twitter.,150,51
+288,2023-03-13,mastodon,great experience #ai on mastodon.,477,79
+289,2023-03-14,twitter,unhappy with support #productivity on twitter.,385,165
+290,2023-03-14,mastodon,pleasant surprise #ai on mastodon.,139,31
+291,2023-03-14,instagram,attending the webinar #security on instagram.,458,98
+292,2023-03-14,instagram,excited for the feature #cloud on instagram.,188,132
+293,2023-03-15,twitter,fantastic release #security on twitter.,220,154
+294,2023-03-15,mastodon,monitoring the rollout #productivity on mastodon.,52,20
+295,2023-03-15,instagram,amazing support #productivity on instagram.,308,183
+296,2023-03-15,instagram,unhappy with support #sustainability on instagram.,21,186
+297,2023-03-16,mastodon,reviewing the metrics #security on mastodon.,327,14
+298,2023-03-16,threads,solid improvement #sustainability on threads.,410,191
+299,2023-03-16,threads,reading the announcement #ml on threads.,347,200
+300,2023-03-16,reddit,terrible outage #opensource on reddit.,398,165
+301,2023-03-17,threads,solid improvement #ai on threads.,78,173
+302,2023-03-17,instagram,slow performance #sustainability on instagram.,390,19
+303,2023-03-17,mastodon,slow performance #security on mastodon.,332,71
+304,2023-03-17,reddit,fantastic release #ai on reddit.,255,132
+305,2023-03-18,mastodon,fantastic release #productivity on mastodon.,360,114
+306,2023-03-18,reddit,amazing support #cloud on reddit.,62,34
+307,2023-03-18,instagram,noting the release schedule #ml on instagram.,44,174
+308,2023-03-18,twitter,reviewing the metrics #sustainability on twitter.,281,138
+309,2023-03-19,reddit,amazing support #ml on reddit.,406,92
+310,2023-03-19,reddit,frustrating bug #dataviz on reddit.,121,126
+311,2023-03-19,threads,pleasant surprise #cloud on threads.,66,156
+312,2023-03-19,instagram,checking the dashboard #productivity on instagram.,367,184
+313,2023-03-20,threads,confusing instructions #security on threads.,37,32
+314,2023-03-20,instagram,checking the dashboard #cloud on instagram.,348,132
+315,2023-03-20,instagram,excited for the feature #ml on instagram.,257,14
+316,2023-03-20,reddit,monitoring the rollout #productivity on reddit.,82,82
+317,2023-03-21,threads,sharing the documentation #sustainability on threads.,458,72
+318,2023-03-21,threads,running the demo #dataviz on threads.,140,32
+319,2023-03-21,threads,checking the dashboard #ml on threads.,482,148
+320,2023-03-21,twitter,pleasant surprise #ai on twitter.,41,11
+321,2023-03-22,threads,running the demo #dataviz on threads.,213,158
+322,2023-03-22,mastodon,noting the release schedule #productivity on mastodon.,247,62
+323,2023-03-22,instagram,attending the webinar #productivity on instagram.,37,176
+324,2023-03-22,instagram,happy with the results #security on instagram.,237,52
+325,2023-03-23,mastodon,excited for the feature #sustainability on mastodon.,375,88
+326,2023-03-23,threads,monitoring the rollout #sustainability on threads.,287,27
+327,2023-03-23,mastodon,happy with the results #opensource on mastodon.,230,63
+328,2023-03-23,instagram,love the new update #productivity on instagram.,442,157
+329,2023-03-24,threads,terrible outage #sustainability on threads.,369,80
+330,2023-03-24,threads,excited for the feature #cloud on threads.,239,127
+331,2023-03-24,twitter,noting the release schedule #ai on twitter.,483,100
+332,2023-03-24,threads,disappointed with the update #dataviz on threads.,180,12
+333,2023-03-25,mastodon,happy with the results #cloud on mastodon.,274,2
+334,2023-03-25,mastodon,attending the webinar #ml on mastodon.,372,93
+335,2023-03-25,instagram,reviewing the metrics #ai on instagram.,26,145
+336,2023-03-25,twitter,slow performance #productivity on twitter.,197,129
+337,2023-03-26,reddit,awful UI change #opensource on reddit.,499,24
+338,2023-03-26,reddit,pleasant surprise #sustainability on reddit.,101,154
+339,2023-03-26,twitter,bad experience #ai on twitter.,70,182
+340,2023-03-26,reddit,happy with the results #cloud on reddit.,310,131
+341,2023-03-27,instagram,pleasant surprise #ml on instagram.,315,189
+342,2023-03-27,threads,reviewing the metrics #cloud on threads.,153,121
+343,2023-03-27,twitter,reviewing the metrics #sustainability on twitter.,213,149
+344,2023-03-27,mastodon,love the new update #cloud on mastodon.,495,167
+345,2023-03-28,threads,sharing the documentation #ai on threads.,245,43
+346,2023-03-28,reddit,confusing instructions #ml on reddit.,16,146
+347,2023-03-28,twitter,checking the dashboard #dataviz on twitter.,225,80
+348,2023-03-28,instagram,confusing instructions #dataviz on instagram.,256,198
+349,2023-03-29,reddit,noting the release schedule #ai on reddit.,265,53
+350,2023-03-29,mastodon,unhappy with support #security on mastodon.,489,44
+351,2023-03-29,mastodon,slow performance #sustainability on mastodon.,312,123
+352,2023-03-29,threads,great experience #productivity on threads.,152,57
+353,2023-03-30,reddit,running the demo #productivity on reddit.,353,180
+354,2023-03-30,threads,unhappy with support #sustainability on threads.,478,184
+355,2023-03-30,instagram,fantastic release #security on instagram.,419,88
+356,2023-03-30,twitter,monitoring the rollout #productivity on twitter.,147,182
+357,2023-03-31,instagram,happy with the results #productivity on instagram.,109,51
+358,2023-03-31,reddit,running the demo #productivity on reddit.,55,157
+359,2023-03-31,twitter,sharing the documentation #dataviz on twitter.,342,135
+360,2023-03-31,twitter,great experience #ai on twitter.,211,84
+361,2023-04-01,twitter,checking the dashboard #ml on twitter.,493,140
+362,2023-04-01,instagram,monitoring the rollout #security on instagram.,244,166
+363,2023-04-01,mastodon,amazing support #sustainability on mastodon.,330,15
+364,2023-04-01,threads,checking the dashboard #dataviz on threads.,378,185
+365,2023-04-02,instagram,reading the announcement #ml on instagram.,451,45
+366,2023-04-02,instagram,reading the announcement #security on instagram.,95,191
+367,2023-04-02,twitter,running the demo #ai on twitter.,152,145
+368,2023-04-02,instagram,reviewing the metrics #productivity on instagram.,328,139
+369,2023-04-03,mastodon,terrible outage #cloud on mastodon.,98,28
+370,2023-04-03,reddit,happy with the results #productivity on reddit.,7,188
+371,2023-04-03,reddit,amazing support #dataviz on reddit.,312,163
+372,2023-04-03,twitter,attending the webinar #sustainability on twitter.,205,171
+373,2023-04-04,mastodon,excited for the feature #cloud on mastodon.,479,63
+374,2023-04-04,instagram,solid improvement #dataviz on instagram.,385,68
+375,2023-04-04,mastodon,running the demo #ai on mastodon.,334,92
+376,2023-04-04,instagram,reading the announcement #opensource on instagram.,157,40
+377,2023-04-05,mastodon,awful UI change #opensource on mastodon.,188,157
+378,2023-04-05,reddit,excited for the feature #cloud on reddit.,232,191
+379,2023-04-05,threads,reviewing the metrics #security on threads.,467,120
+380,2023-04-05,threads,sharing the documentation #dataviz on threads.,447,20
+381,2023-04-06,threads,slow performance #opensource on threads.,57,15
+382,2023-04-06,reddit,sharing the documentation #ml on reddit.,167,133
+383,2023-04-06,twitter,disappointed with the update #cloud on twitter.,460,130
+384,2023-04-06,reddit,bad experience #cloud on reddit.,262,106
+385,2023-04-07,mastodon,bad experience #cloud on mastodon.,370,5
+386,2023-04-07,threads,love the new update #dataviz on threads.,37,11
+387,2023-04-07,twitter,frustrating bug #ai on twitter.,478,120
+388,2023-04-07,reddit,solid improvement #ml on reddit.,392,164
+389,2023-04-08,instagram,attending the webinar #sustainability on instagram.,229,96
+390,2023-04-08,twitter,excited for the feature #sustainability on twitter.,91,137
+391,2023-04-08,twitter,excited for the feature #dataviz on twitter.,387,5
+392,2023-04-08,threads,noting the release schedule #security on threads.,194,58
+393,2023-04-09,mastodon,pleasant surprise #ml on mastodon.,96,185
+394,2023-04-09,threads,reading the announcement #security on threads.,392,4
+395,2023-04-09,threads,fantastic release #opensource on threads.,17,114
+396,2023-04-09,twitter,bad experience #dataviz on twitter.,205,112
+397,2023-04-10,reddit,great experience #ai on reddit.,257,74
+398,2023-04-10,reddit,pleasant surprise #sustainability on reddit.,154,36
+399,2023-04-10,mastodon,sharing the documentation #security on mastodon.,140,15
+400,2023-04-10,threads,terrible outage #security on threads.,253,12
+401,2023-04-11,instagram,attending the webinar #sustainability on instagram.,209,38
+402,2023-04-11,reddit,excited for the feature #cloud on reddit.,434,57
+403,2023-04-11,twitter,excited for the feature #cloud on twitter.,287,105
+404,2023-04-11,reddit,monitoring the rollout #security on reddit.,130,52
+405,2023-04-12,mastodon,fantastic release #cloud on mastodon.,47,137
+406,2023-04-12,mastodon,sharing the documentation #ai on mastodon.,193,172
+407,2023-04-12,reddit,reading the announcement #opensource on reddit.,411,194
+408,2023-04-12,reddit,disappointed with the update #cloud on reddit.,445,85
+409,2023-04-13,reddit,love the new update #dataviz on reddit.,492,189
+410,2023-04-13,threads,happy with the results #dataviz on threads.,360,52
+411,2023-04-13,mastodon,great experience #sustainability on mastodon.,194,119
+412,2023-04-13,mastodon,slow performance #productivity on mastodon.,184,131
+413,2023-04-14,instagram,noting the release schedule #opensource on instagram.,389,81
+414,2023-04-14,instagram,reviewing the metrics #sustainability on instagram.,23,144
+415,2023-04-14,mastodon,monitoring the rollout #ai on mastodon.,283,149
+416,2023-04-14,reddit,confusing instructions #productivity on reddit.,100,84
+417,2023-04-15,threads,great experience #cloud on threads.,335,175
+418,2023-04-15,instagram,happy with the results #cloud on instagram.,86,187
+419,2023-04-15,threads,monitoring the rollout #ml on threads.,250,47
+420,2023-04-15,twitter,reading the announcement #ai on twitter.,483,171
+421,2023-04-16,reddit,love the new update #security on reddit.,431,161
+422,2023-04-16,reddit,excited for the feature #ai on reddit.,258,116
+423,2023-04-16,twitter,happy with the results #cloud on twitter.,3,136
+424,2023-04-16,threads,bad experience #ai on threads.,369,70
+425,2023-04-17,threads,awful UI change #ai on threads.,416,178
+426,2023-04-17,twitter,monitoring the rollout #opensource on twitter.,268,38
+427,2023-04-17,mastodon,amazing support #sustainability on mastodon.,407,101
+428,2023-04-17,threads,solid improvement #cloud on threads.,124,178
+429,2023-04-18,twitter,fantastic release #ai on twitter.,207,97
+430,2023-04-18,twitter,happy with the results #ai on twitter.,359,43
+431,2023-04-18,threads,solid improvement #sustainability on threads.,500,24
+432,2023-04-18,reddit,reading the announcement #dataviz on reddit.,461,177
+433,2023-04-19,twitter,noting the release schedule #productivity on twitter.,473,19
+434,2023-04-19,reddit,running the demo #ai on reddit.,475,80
+435,2023-04-19,instagram,great experience #ml on instagram.,475,19
+436,2023-04-19,threads,great experience #security on threads.,169,98
+437,2023-04-20,threads,monitoring the rollout #opensource on threads.,381,88
+438,2023-04-20,twitter,solid improvement #dataviz on twitter.,174,154
+439,2023-04-20,twitter,attending the webinar #sustainability on twitter.,324,69
+440,2023-04-20,reddit,noting the release schedule #cloud on reddit.,182,141
+441,2023-04-21,threads,attending the webinar #ml on threads.,338,97
+442,2023-04-21,twitter,amazing support #dataviz on twitter.,42,68
+443,2023-04-21,mastodon,excited for the feature #security on mastodon.,184,27
+444,2023-04-21,mastodon,amazing support #cloud on mastodon.,389,69
+445,2023-04-22,instagram,fantastic release #ml on instagram.,229,142
+446,2023-04-22,twitter,confusing instructions #opensource on twitter.,45,90
+447,2023-04-22,twitter,slow performance #security on twitter.,149,105
+448,2023-04-22,threads,fantastic release #dataviz on threads.,266,43
+449,2023-04-23,mastodon,monitoring the rollout #ml on mastodon.,154,68
+450,2023-04-23,instagram,frustrating bug #ml on instagram.,141,107
+451,2023-04-23,mastodon,fantastic release #sustainability on mastodon.,483,63
+452,2023-04-23,instagram,noting the release schedule #dataviz on instagram.,54,34
+453,2023-04-24,threads,solid improvement #sustainability on threads.,194,84
+454,2023-04-24,mastodon,confusing instructions #ml on mastodon.,164,154
+455,2023-04-24,mastodon,sharing the documentation #cloud on mastodon.,90,101
+456,2023-04-24,threads,running the demo #cloud on threads.,400,62
+457,2023-04-25,mastodon,amazing support #security on mastodon.,58,144
+458,2023-04-25,instagram,excited for the feature #ai on instagram.,482,181
+459,2023-04-25,instagram,amazing support #opensource on instagram.,344,127
+460,2023-04-25,mastodon,amazing support #dataviz on mastodon.,337,39
+461,2023-04-26,instagram,attending the webinar #opensource on instagram.,306,122
+462,2023-04-26,mastodon,confusing instructions #ai on mastodon.,359,137
+463,2023-04-26,reddit,frustrating bug #opensource on reddit.,336,170
+464,2023-04-26,mastodon,love the new update #security on mastodon.,494,110
+465,2023-04-27,reddit,fantastic release #productivity on reddit.,261,191
+466,2023-04-27,mastodon,disappointed with the update #cloud on mastodon.,200,118
+467,2023-04-27,twitter,monitoring the rollout #sustainability on twitter.,247,26
+468,2023-04-27,reddit,fantastic release #opensource on reddit.,178,79
+469,2023-04-28,mastodon,great experience #cloud on mastodon.,243,24
+470,2023-04-28,twitter,unhappy with support #sustainability on twitter.,153,11
+471,2023-04-28,mastodon,checking the dashboard #ai on mastodon.,331,27
+472,2023-04-28,threads,monitoring the rollout #dataviz on threads.,89,141
+473,2023-04-29,reddit,solid improvement #cloud on reddit.,408,103
+474,2023-04-29,instagram,monitoring the rollout #security on instagram.,14,188
+475,2023-04-29,threads,sharing the documentation #cloud on threads.,219,99
+476,2023-04-29,mastodon,great experience #dataviz on mastodon.,385,180
+477,2023-04-30,threads,checking the dashboard #opensource on threads.,95,93
+478,2023-04-30,mastodon,happy with the results #opensource on mastodon.,343,125
+479,2023-04-30,threads,slow performance #security on threads.,200,150
+480,2023-04-30,threads,pleasant surprise #cloud on threads.,88,172
+481,2023-05-01,reddit,running the demo #opensource on reddit.,160,30
+482,2023-05-01,mastodon,fantastic release #ml on mastodon.,355,36
+483,2023-05-01,threads,confusing instructions #ml on threads.,196,108
+484,2023-05-01,instagram,excited for the feature #ml on instagram.,147,35
+485,2023-05-02,mastodon,happy with the results #ai on mastodon.,487,2
+486,2023-05-02,threads,disappointed with the update #security on threads.,258,167
+487,2023-05-02,instagram,unhappy with support #security on instagram.,250,42
+488,2023-05-02,mastodon,love the new update #dataviz on mastodon.,16,70
+489,2023-05-03,instagram,amazing support #ml on instagram.,289,190
+490,2023-05-03,threads,noting the release schedule #opensource on threads.,58,68
+491,2023-05-03,instagram,reviewing the metrics #ai on instagram.,279,55
+492,2023-05-03,mastodon,checking the dashboard #dataviz on mastodon.,447,8
+493,2023-05-04,instagram,slow performance #opensource on instagram.,443,30
+494,2023-05-04,threads,sharing the documentation #dataviz on threads.,352,89
+495,2023-05-04,threads,attending the webinar #ml on threads.,71,200
+496,2023-05-04,threads,great experience #ai on threads.,179,136
+497,2023-05-05,mastodon,excited for the feature #sustainability on mastodon.,148,146
+498,2023-05-05,instagram,fantastic release #ml on instagram.,470,15
+499,2023-05-05,reddit,monitoring the rollout #ml on reddit.,74,182
+500,2023-05-05,instagram,great experience #security on instagram.,72,147
+501,2023-05-06,instagram,attending the webinar #security on instagram.,38,162
+502,2023-05-06,threads,checking the dashboard #security on threads.,383,71
+503,2023-05-06,instagram,reviewing the metrics #cloud on instagram.,167,148
+504,2023-05-06,mastodon,fantastic release #cloud on mastodon.,435,16
+505,2023-05-07,instagram,attending the webinar #dataviz on instagram.,422,54
+506,2023-05-07,mastodon,slow performance #productivity on mastodon.,280,147
+507,2023-05-07,twitter,happy with the results #sustainability on twitter.,23,25
+508,2023-05-07,twitter,noting the release schedule #ai on twitter.,475,40
+509,2023-05-08,reddit,bad experience #security on reddit.,352,33
+510,2023-05-08,mastodon,running the demo #ml on mastodon.,47,167
+511,2023-05-08,reddit,fantastic release #sustainability on reddit.,26,101
+512,2023-05-08,twitter,sharing the documentation #security on twitter.,360,24
+513,2023-05-09,reddit,happy with the results #opensource on reddit.,303,57
+514,2023-05-09,twitter,unhappy with support #ai on twitter.,356,87
+515,2023-05-09,instagram,attending the webinar #ml on instagram.,36,58
+516,2023-05-09,mastodon,fantastic release #opensource on mastodon.,188,76
+517,2023-05-10,twitter,excited for the feature #ml on twitter.,271,144
+518,2023-05-10,mastodon,excited for the feature #cloud on mastodon.,369,54
+519,2023-05-10,threads,monitoring the rollout #security on threads.,351,113
+520,2023-05-10,reddit,checking the dashboard #opensource on reddit.,385,31
+521,2023-05-11,instagram,confusing instructions #sustainability on instagram.,161,35
+522,2023-05-11,threads,fantastic release #dataviz on threads.,307,153
+523,2023-05-11,mastodon,running the demo #ai on mastodon.,105,132
+524,2023-05-11,mastodon,sharing the documentation #security on mastodon.,330,13
+525,2023-05-12,instagram,sharing the documentation #cloud on instagram.,57,61
+526,2023-05-12,mastodon,frustrating bug #ai on mastodon.,478,81
+527,2023-05-12,threads,solid improvement #sustainability on threads.,349,44
+528,2023-05-12,threads,checking the dashboard #ai on threads.,34,3
+529,2023-05-13,instagram,love the new update #ai on instagram.,259,73
+530,2023-05-13,instagram,attending the webinar #security on instagram.,42,163
+531,2023-05-13,twitter,terrible outage #productivity on twitter.,158,20
+532,2023-05-13,threads,disappointed with the update #ml on threads.,167,100
+533,2023-05-14,instagram,frustrating bug #productivity on instagram.,373,61
+534,2023-05-14,twitter,fantastic release #security on twitter.,232,156
+535,2023-05-14,twitter,running the demo #ml on twitter.,6,181
+536,2023-05-14,instagram,love the new update #ml on instagram.,487,88
+537,2023-05-15,mastodon,awful UI change #ml on mastodon.,64,191
+538,2023-05-15,twitter,running the demo #opensource on twitter.,171,109
+539,2023-05-15,threads,fantastic release #productivity on threads.,321,19
+540,2023-05-15,instagram,slow performance #ai on instagram.,439,145
+541,2023-05-16,twitter,excited for the feature #productivity on twitter.,457,146
+542,2023-05-16,threads,checking the dashboard #dataviz on threads.,1,11
+543,2023-05-16,twitter,reading the announcement #dataviz on twitter.,241,93
+544,2023-05-16,twitter,excited for the feature #ml on twitter.,283,182
+545,2023-05-17,mastodon,attending the webinar #dataviz on mastodon.,127,106
+546,2023-05-17,twitter,reviewing the metrics #productivity on twitter.,292,95
+547,2023-05-17,reddit,love the new update #ml on reddit.,411,132
+548,2023-05-17,instagram,attending the webinar #opensource on instagram.,443,72
+549,2023-05-18,twitter,running the demo #sustainability on twitter.,283,116
+550,2023-05-18,threads,great experience #productivity on threads.,401,77
+551,2023-05-18,mastodon,sharing the documentation #cloud on mastodon.,302,126
+552,2023-05-18,reddit,sharing the documentation #dataviz on reddit.,3,104
+553,2023-05-19,mastodon,pleasant surprise #ai on mastodon.,0,194
+554,2023-05-19,reddit,running the demo #opensource on reddit.,271,60
+555,2023-05-19,mastodon,bad experience #ml on mastodon.,47,11
+556,2023-05-19,instagram,attending the webinar #sustainability on instagram.,498,191
+557,2023-05-20,instagram,fantastic release #ml on instagram.,38,151
+558,2023-05-20,reddit,confusing instructions #ml on reddit.,149,66
+559,2023-05-20,mastodon,attending the webinar #sustainability on mastodon.,231,69
+560,2023-05-20,threads,great experience #ml on threads.,55,39
+561,2023-05-21,mastodon,happy with the results #cloud on mastodon.,208,30
+562,2023-05-21,mastodon,disappointed with the update #cloud on mastodon.,237,67
+563,2023-05-21,mastodon,checking the dashboard #ml on mastodon.,423,180
+564,2023-05-21,mastodon,reading the announcement #dataviz on mastodon.,75,23
+565,2023-05-22,threads,reviewing the metrics #security on threads.,25,173
+566,2023-05-22,instagram,excited for the feature #ai on instagram.,437,115
+567,2023-05-22,instagram,disappointed with the update #opensource on instagram.,52,35
+568,2023-05-22,reddit,love the new update #dataviz on reddit.,101,102
+569,2023-05-23,twitter,fantastic release #productivity on twitter.,11,16
+570,2023-05-23,twitter,happy with the results #ml on twitter.,463,84
+571,2023-05-23,reddit,happy with the results #ai on reddit.,473,146
+572,2023-05-23,twitter,confusing instructions #cloud on twitter.,195,174
+573,2023-05-24,reddit,slow performance #dataviz on reddit.,140,71
+574,2023-05-24,threads,terrible outage #ai on threads.,317,157
+575,2023-05-24,instagram,amazing support #cloud on instagram.,451,140
+576,2023-05-24,instagram,frustrating bug #productivity on instagram.,70,107
+577,2023-05-25,instagram,great experience #ai on instagram.,400,182
+578,2023-05-25,threads,happy with the results #sustainability on threads.,257,82
+579,2023-05-25,mastodon,excited for the feature #ai on mastodon.,305,56
+580,2023-05-25,instagram,amazing support #ai on instagram.,271,91
+581,2023-05-26,twitter,sharing the documentation #ml on twitter.,126,168
+582,2023-05-26,threads,love the new update #dataviz on threads.,433,99
+583,2023-05-26,reddit,excited for the feature #ml on reddit.,303,81
+584,2023-05-26,mastodon,reviewing the metrics #ai on mastodon.,485,145
+585,2023-05-27,threads,disappointed with the update #cloud on threads.,158,44
+586,2023-05-27,reddit,frustrating bug #ai on reddit.,308,56
+587,2023-05-27,mastodon,happy with the results #ai on mastodon.,469,157
+588,2023-05-27,reddit,excited for the feature #sustainability on reddit.,470,82
+589,2023-05-28,twitter,excited for the feature #ml on twitter.,433,134
+590,2023-05-28,instagram,checking the dashboard #sustainability on instagram.,300,25
+591,2023-05-28,reddit,pleasant surprise #ml on reddit.,374,111
+592,2023-05-28,reddit,noting the release schedule #sustainability on reddit.,362,143
+593,2023-05-29,threads,reviewing the metrics #dataviz on threads.,417,44
+594,2023-05-29,reddit,amazing support #ml on reddit.,373,0
+595,2023-05-29,reddit,attending the webinar #ai on reddit.,308,81
+596,2023-05-29,instagram,sharing the documentation #opensource on instagram.,72,84
+597,2023-05-30,mastodon,sharing the documentation #sustainability on mastodon.,85,162
+598,2023-05-30,instagram,checking the dashboard #sustainability on instagram.,5,67
+599,2023-05-30,mastodon,fantastic release #sustainability on mastodon.,402,27
+600,2023-05-30,instagram,reading the announcement #security on instagram.,375,107
+601,2023-05-31,instagram,attending the webinar #cloud on instagram.,179,139
+602,2023-05-31,reddit,happy with the results #dataviz on reddit.,231,18
+603,2023-05-31,twitter,reading the announcement #productivity on twitter.,163,66
+604,2023-05-31,reddit,checking the dashboard #sustainability on reddit.,454,96
+605,2023-06-01,mastodon,fantastic release #opensource on mastodon.,304,157
+606,2023-06-01,reddit,reading the announcement #security on reddit.,310,111
+607,2023-06-01,reddit,fantastic release #sustainability on reddit.,498,48
+608,2023-06-01,mastodon,awful UI change #productivity on mastodon.,121,24
+609,2023-06-02,twitter,happy with the results #ml on twitter.,184,0
+610,2023-06-02,reddit,awful UI change #cloud on reddit.,49,6
+611,2023-06-02,instagram,amazing support #opensource on instagram.,432,29
+612,2023-06-02,instagram,solid improvement #cloud on instagram.,458,169
+613,2023-06-03,mastodon,solid improvement #ml on mastodon.,453,97
+614,2023-06-03,mastodon,happy with the results #ai on mastodon.,225,119
+615,2023-06-03,reddit,amazing support #ai on reddit.,385,178
+616,2023-06-03,threads,checking the dashboard #sustainability on threads.,211,193
+617,2023-06-04,threads,bad experience #security on threads.,214,137
+618,2023-06-04,instagram,noting the release schedule #dataviz on instagram.,153,20
+619,2023-06-04,twitter,love the new update #ml on twitter.,486,193
+620,2023-06-04,reddit,terrible outage #dataviz on reddit.,64,10
+621,2023-06-05,reddit,confusing instructions #dataviz on reddit.,427,152
+622,2023-06-05,instagram,fantastic release #opensource on instagram.,284,101
+623,2023-06-05,twitter,awful UI change #cloud on twitter.,402,179
+624,2023-06-05,instagram,attending the webinar #opensource on instagram.,76,37
+625,2023-06-06,threads,frustrating bug #opensource on threads.,399,25
+626,2023-06-06,mastodon,reviewing the metrics #security on mastodon.,196,167
+627,2023-06-06,reddit,unhappy with support #ai on reddit.,141,103
+628,2023-06-06,instagram,solid improvement #ai on instagram.,455,84
+629,2023-06-07,mastodon,reading the announcement #cloud on mastodon.,459,95
+630,2023-06-07,mastodon,amazing support #productivity on mastodon.,431,125
+631,2023-06-07,reddit,checking the dashboard #dataviz on reddit.,153,190
+632,2023-06-07,instagram,slow performance #productivity on instagram.,309,165
+633,2023-06-08,instagram,happy with the results #dataviz on instagram.,379,124
+634,2023-06-08,threads,reviewing the metrics #ai on threads.,405,40
+635,2023-06-08,threads,solid improvement #ml on threads.,450,145
+636,2023-06-08,twitter,great experience #dataviz on twitter.,127,8
+637,2023-06-09,mastodon,slow performance #dataviz on mastodon.,188,118
+638,2023-06-09,reddit,frustrating bug #ai on reddit.,190,125
+639,2023-06-09,threads,terrible outage #cloud on threads.,282,89
+640,2023-06-09,mastodon,amazing support #opensource on mastodon.,14,98
+641,2023-06-10,reddit,great experience #dataviz on reddit.,346,52
+642,2023-06-10,twitter,solid improvement #ai on twitter.,242,33
+643,2023-06-10,mastodon,reading the announcement #dataviz on mastodon.,311,78
+644,2023-06-10,instagram,running the demo #security on instagram.,436,89
+645,2023-06-11,mastodon,disappointed with the update #cloud on mastodon.,346,133
+646,2023-06-11,twitter,attending the webinar #opensource on twitter.,261,169
+647,2023-06-11,mastodon,reviewing the metrics #productivity on mastodon.,350,27
+648,2023-06-11,mastodon,slow performance #productivity on mastodon.,441,70
+649,2023-06-12,reddit,amazing support #dataviz on reddit.,264,195
+650,2023-06-12,mastodon,love the new update #security on mastodon.,348,35
+651,2023-06-12,mastodon,noting the release schedule #productivity on mastodon.,464,107
+652,2023-06-12,mastodon,bad experience #dataviz on mastodon.,371,182
+653,2023-06-13,threads,happy with the results #sustainability on threads.,153,43
+654,2023-06-13,twitter,monitoring the rollout #productivity on twitter.,241,32
+655,2023-06-13,twitter,monitoring the rollout #sustainability on twitter.,113,90
+656,2023-06-13,mastodon,amazing support #security on mastodon.,190,66
+657,2023-06-14,instagram,unhappy with support #opensource on instagram.,27,162
+658,2023-06-14,reddit,frustrating bug #cloud on reddit.,256,30
+659,2023-06-14,instagram,attending the webinar #productivity on instagram.,27,38
+660,2023-06-14,instagram,great experience #sustainability on instagram.,291,117
+661,2023-06-15,instagram,excited for the feature #opensource on instagram.,170,161
+662,2023-06-15,twitter,reviewing the metrics #ai on twitter.,231,70
+663,2023-06-15,instagram,excited for the feature #ml on instagram.,402,195
+664,2023-06-15,instagram,monitoring the rollout #security on instagram.,206,109
+665,2023-06-16,twitter,attending the webinar #ai on twitter.,273,51
+666,2023-06-16,threads,reading the announcement #sustainability on threads.,97,4
+667,2023-06-16,mastodon,sharing the documentation #dataviz on mastodon.,159,33
+668,2023-06-16,twitter,amazing support #ml on twitter.,421,11
+669,2023-06-17,threads,amazing support #cloud on threads.,305,134
+670,2023-06-17,instagram,excited for the feature #sustainability on instagram.,183,192
+671,2023-06-17,reddit,solid improvement #ai on reddit.,114,186
+672,2023-06-17,threads,sharing the documentation #ai on threads.,258,43
+673,2023-06-18,mastodon,love the new update #security on mastodon.,394,136
+674,2023-06-18,twitter,reading the announcement #opensource on twitter.,24,176
+675,2023-06-18,twitter,happy with the results #security on twitter.,280,64
+676,2023-06-18,twitter,terrible outage #dataviz on twitter.,154,107
+677,2023-06-19,instagram,running the demo #ml on instagram.,425,26
+678,2023-06-19,twitter,frustrating bug #productivity on twitter.,401,27
+679,2023-06-19,threads,disappointed with the update #productivity on threads.,498,51
+680,2023-06-19,reddit,solid improvement #productivity on reddit.,20,140
+681,2023-06-20,mastodon,disappointed with the update #cloud on mastodon.,120,0
+682,2023-06-20,threads,fantastic release #opensource on threads.,342,126
+683,2023-06-20,twitter,fantastic release #opensource on twitter.,463,65
+684,2023-06-20,mastodon,noting the release schedule #productivity on mastodon.,237,12
+685,2023-06-21,mastodon,excited for the feature #ai on mastodon.,184,173
+686,2023-06-21,twitter,fantastic release #opensource on twitter.,4,35
+687,2023-06-21,mastodon,monitoring the rollout #sustainability on mastodon.,457,112
+688,2023-06-21,mastodon,running the demo #opensource on mastodon.,417,87
+689,2023-06-22,instagram,solid improvement #security on instagram.,139,98
+690,2023-06-22,reddit,noting the release schedule #security on reddit.,57,33
+691,2023-06-22,twitter,reading the announcement #ml on twitter.,213,151
+692,2023-06-22,threads,unhappy with support #ml on threads.,194,199
+693,2023-06-23,instagram,love the new update #ml on instagram.,471,124
+694,2023-06-23,twitter,solid improvement #cloud on twitter.,32,66
+695,2023-06-23,mastodon,reading the announcement #dataviz on mastodon.,265,133
+696,2023-06-23,reddit,checking the dashboard #security on reddit.,246,88
+697,2023-06-24,threads,attending the webinar #ml on threads.,456,156
+698,2023-06-24,instagram,excited for the feature #cloud on instagram.,445,42
+699,2023-06-24,reddit,happy with the results #sustainability on reddit.,169,71
+700,2023-06-24,instagram,great experience #security on instagram.,418,60
+701,2023-06-25,twitter,happy with the results #cloud on twitter.,438,127
+702,2023-06-25,twitter,frustrating bug #cloud on twitter.,52,103
+703,2023-06-25,threads,bad experience #opensource on threads.,493,158
+704,2023-06-25,mastodon,sharing the documentation #cloud on mastodon.,186,13
+705,2023-06-26,threads,noting the release schedule #sustainability on threads.,392,158
+706,2023-06-26,twitter,slow performance #cloud on twitter.,49,194
+707,2023-06-26,mastodon,reading the announcement #sustainability on mastodon.,424,162
+708,2023-06-26,twitter,running the demo #sustainability on twitter.,23,42
+709,2023-06-27,mastodon,confusing instructions #opensource on mastodon.,312,50
+710,2023-06-27,instagram,solid improvement #dataviz on instagram.,422,200
+711,2023-06-27,instagram,pleasant surprise #opensource on instagram.,23,162
+712,2023-06-27,instagram,checking the dashboard #cloud on instagram.,337,150
+713,2023-06-28,twitter,monitoring the rollout #cloud on twitter.,271,188
+714,2023-06-28,threads,solid improvement #cloud on threads.,399,45
+715,2023-06-28,twitter,monitoring the rollout #ml on twitter.,198,168
+716,2023-06-28,instagram,reviewing the metrics #security on instagram.,311,177
+717,2023-06-29,mastodon,running the demo #security on mastodon.,496,75
+718,2023-06-29,instagram,terrible outage #ml on instagram.,308,179
+719,2023-06-29,threads,running the demo #sustainability on threads.,323,55
+720,2023-06-29,reddit,amazing support #sustainability on reddit.,363,166
+721,2023-06-30,twitter,monitoring the rollout #sustainability on twitter.,389,90
+722,2023-06-30,instagram,confusing instructions #productivity on instagram.,413,3
+723,2023-06-30,reddit,bad experience #security on reddit.,27,171
+724,2023-06-30,mastodon,amazing support #ml on mastodon.,349,64
+725,2023-07-01,reddit,love the new update #productivity on reddit.,385,138
+726,2023-07-01,threads,happy with the results #opensource on threads.,444,172
+727,2023-07-01,reddit,sharing the documentation #security on reddit.,261,200
+728,2023-07-01,instagram,running the demo #ai on instagram.,198,106
+729,2023-07-02,twitter,reviewing the metrics #ai on twitter.,380,64
+730,2023-07-02,mastodon,happy with the results #dataviz on mastodon.,386,150
+731,2023-07-02,mastodon,disappointed with the update #dataviz on mastodon.,229,45
+732,2023-07-02,reddit,checking the dashboard #ml on reddit.,376,131
+733,2023-07-03,mastodon,love the new update #security on mastodon.,284,67
+734,2023-07-03,mastodon,amazing support #ai on mastodon.,238,181
+735,2023-07-03,mastodon,reading the announcement #ml on mastodon.,305,13
+736,2023-07-03,threads,running the demo #cloud on threads.,281,91
+737,2023-07-04,reddit,pleasant surprise #dataviz on reddit.,266,17
+738,2023-07-04,threads,monitoring the rollout #security on threads.,274,103
+739,2023-07-04,mastodon,great experience #dataviz on mastodon.,169,92
+740,2023-07-04,twitter,happy with the results #ai on twitter.,342,88
+741,2023-07-05,mastodon,disappointed with the update #ai on mastodon.,195,29
+742,2023-07-05,threads,amazing support #ai on threads.,420,197
+743,2023-07-05,twitter,happy with the results #cloud on twitter.,151,166
+744,2023-07-05,reddit,fantastic release #opensource on reddit.,497,197
+745,2023-07-06,reddit,bad experience #opensource on reddit.,343,161
+746,2023-07-06,reddit,attending the webinar #opensource on reddit.,275,179
+747,2023-07-06,reddit,attending the webinar #opensource on reddit.,12,117
+748,2023-07-06,twitter,reading the announcement #opensource on twitter.,27,45
+749,2023-07-07,mastodon,checking the dashboard #dataviz on mastodon.,208,99
+750,2023-07-07,mastodon,confusing instructions #security on mastodon.,8,99
+751,2023-07-07,threads,reading the announcement #opensource on threads.,23,179
+752,2023-07-07,mastodon,reviewing the metrics #opensource on mastodon.,402,175
+753,2023-07-08,instagram,fantastic release #productivity on instagram.,195,101
+754,2023-07-08,reddit,reading the announcement #cloud on reddit.,273,56
+755,2023-07-08,reddit,solid improvement #productivity on reddit.,152,173
+756,2023-07-08,threads,reviewing the metrics #ai on threads.,447,142
+757,2023-07-09,threads,love the new update #ai on threads.,305,100
+758,2023-07-09,reddit,frustrating bug #productivity on reddit.,383,189
+759,2023-07-09,instagram,reviewing the metrics #dataviz on instagram.,463,165
+760,2023-07-09,reddit,monitoring the rollout #ml on reddit.,113,157
+761,2023-07-10,reddit,sharing the documentation #opensource on reddit.,343,145
+762,2023-07-10,mastodon,noting the release schedule #opensource on mastodon.,343,17
+763,2023-07-10,mastodon,great experience #cloud on mastodon.,182,32
+764,2023-07-10,mastodon,sharing the documentation #opensource on mastodon.,317,17
+765,2023-07-11,instagram,reviewing the metrics #cloud on instagram.,168,157
+766,2023-07-11,mastodon,monitoring the rollout #sustainability on mastodon.,490,109
+767,2023-07-11,reddit,pleasant surprise #dataviz on reddit.,364,189
+768,2023-07-11,reddit,running the demo #sustainability on reddit.,347,187
+769,2023-07-12,instagram,happy with the results #cloud on instagram.,183,198
+770,2023-07-12,threads,fantastic release #ml on threads.,41,71
+771,2023-07-12,mastodon,monitoring the rollout #dataviz on mastodon.,375,160
+772,2023-07-12,threads,fantastic release #ai on threads.,323,7
+773,2023-07-13,twitter,attending the webinar #dataviz on twitter.,282,66
+774,2023-07-13,mastodon,unhappy with support #ml on mastodon.,200,57
+775,2023-07-13,instagram,running the demo #ml on instagram.,256,130
+776,2023-07-13,reddit,pleasant surprise #ai on reddit.,434,157
+777,2023-07-14,reddit,monitoring the rollout #cloud on reddit.,91,144
+778,2023-07-14,mastodon,monitoring the rollout #cloud on mastodon.,20,56
+779,2023-07-14,mastodon,sharing the documentation #opensource on mastodon.,189,59
+780,2023-07-14,instagram,great experience #sustainability on instagram.,240,116
+781,2023-07-15,twitter,reading the announcement #sustainability on twitter.,360,133
+782,2023-07-15,threads,running the demo #productivity on threads.,278,145
+783,2023-07-15,threads,solid improvement #sustainability on threads.,334,19
+784,2023-07-15,threads,confusing instructions #dataviz on threads.,207,90
+785,2023-07-16,instagram,reviewing the metrics #cloud on instagram.,454,154
+786,2023-07-16,reddit,excited for the feature #cloud on reddit.,117,19
+787,2023-07-16,reddit,awful UI change #dataviz on reddit.,95,40
+788,2023-07-16,instagram,fantastic release #dataviz on instagram.,415,84
+789,2023-07-17,instagram,noting the release schedule #cloud on instagram.,107,151
+790,2023-07-17,reddit,solid improvement #ai on reddit.,22,32
+791,2023-07-17,threads,terrible outage #ml on threads.,20,146
+792,2023-07-17,reddit,excited for the feature #productivity on reddit.,264,103
+793,2023-07-18,twitter,bad experience #productivity on twitter.,110,114
+794,2023-07-18,reddit,noting the release schedule #cloud on reddit.,112,105
+795,2023-07-18,reddit,monitoring the rollout #productivity on reddit.,370,175
+796,2023-07-18,reddit,happy with the results #opensource on reddit.,193,98
+797,2023-07-19,threads,love the new update #dataviz on threads.,440,129
+798,2023-07-19,reddit,monitoring the rollout #opensource on reddit.,243,157
+799,2023-07-19,instagram,frustrating bug #opensource on instagram.,337,33
+800,2023-07-19,threads,reading the announcement #security on threads.,215,94
+801,2023-07-20,instagram,attending the webinar #dataviz on instagram.,404,196
+802,2023-07-20,reddit,fantastic release #security on reddit.,130,122
+803,2023-07-20,threads,checking the dashboard #productivity on threads.,448,139
+804,2023-07-20,twitter,disappointed with the update #ai on twitter.,295,133
+805,2023-07-21,reddit,love the new update #security on reddit.,352,80
+806,2023-07-21,instagram,frustrating bug #ml on instagram.,333,149
+807,2023-07-21,threads,solid improvement #sustainability on threads.,141,174
+808,2023-07-21,threads,great experience #security on threads.,401,142
+809,2023-07-22,mastodon,slow performance #cloud on mastodon.,157,147
+810,2023-07-22,twitter,solid improvement #ml on twitter.,382,58
+811,2023-07-22,reddit,terrible outage #opensource on reddit.,260,102
+812,2023-07-22,instagram,reading the announcement #ml on instagram.,493,162
+813,2023-07-23,instagram,fantastic release #ml on instagram.,474,153
+814,2023-07-23,reddit,frustrating bug #productivity on reddit.,189,20
+815,2023-07-23,threads,attending the webinar #security on threads.,335,133
+816,2023-07-23,instagram,love the new update #ml on instagram.,224,2
+817,2023-07-24,twitter,amazing support #dataviz on twitter.,401,153
+818,2023-07-24,twitter,disappointed with the update #ml on twitter.,184,61
+819,2023-07-24,mastodon,monitoring the rollout #opensource on mastodon.,399,102
+820,2023-07-24,threads,solid improvement #security on threads.,102,132
+821,2023-07-25,threads,fantastic release #opensource on threads.,145,185
+822,2023-07-25,mastodon,reviewing the metrics #sustainability on mastodon.,115,155
+823,2023-07-25,threads,noting the release schedule #security on threads.,2,66
+824,2023-07-25,threads,fantastic release #opensource on threads.,150,87
+825,2023-07-26,instagram,running the demo #productivity on instagram.,494,96
+826,2023-07-26,instagram,disappointed with the update #sustainability on instagram.,348,117
+827,2023-07-26,twitter,reading the announcement #cloud on twitter.,132,17
+828,2023-07-26,mastodon,great experience #dataviz on mastodon.,211,90
+829,2023-07-27,reddit,bad experience #productivity on reddit.,147,23
+830,2023-07-27,threads,pleasant surprise #opensource on threads.,476,45
+831,2023-07-27,threads,slow performance #dataviz on threads.,137,46
+832,2023-07-27,reddit,sharing the documentation #cloud on reddit.,120,188
+833,2023-07-28,reddit,amazing support #dataviz on reddit.,103,63
+834,2023-07-28,twitter,reviewing the metrics #ml on twitter.,61,20
+835,2023-07-28,threads,noting the release schedule #ai on threads.,490,10
+836,2023-07-28,instagram,reviewing the metrics #sustainability on instagram.,459,147
+837,2023-07-29,threads,noting the release schedule #ml on threads.,143,101
+838,2023-07-29,threads,excited for the feature #ai on threads.,409,108
+839,2023-07-29,instagram,bad experience #sustainability on instagram.,440,175
+840,2023-07-29,threads,noting the release schedule #opensource on threads.,235,80
+841,2023-07-30,instagram,reading the announcement #dataviz on instagram.,297,25
+842,2023-07-30,threads,amazing support #ml on threads.,134,60
+843,2023-07-30,reddit,pleasant surprise #sustainability on reddit.,255,108
+844,2023-07-30,instagram,pleasant surprise #sustainability on instagram.,143,115
+845,2023-07-31,twitter,excited for the feature #dataviz on twitter.,369,69
+846,2023-07-31,reddit,attending the webinar #security on reddit.,74,189
+847,2023-07-31,instagram,love the new update #ml on instagram.,255,34
+848,2023-07-31,mastodon,reviewing the metrics #cloud on mastodon.,128,143
+849,2023-08-01,twitter,reading the announcement #security on twitter.,353,41
+850,2023-08-01,twitter,amazing support #cloud on twitter.,230,190
+851,2023-08-01,threads,pleasant surprise #sustainability on threads.,285,65
+852,2023-08-01,mastodon,solid improvement #opensource on mastodon.,444,173
+853,2023-08-02,mastodon,sharing the documentation #ml on mastodon.,181,83
+854,2023-08-02,twitter,noting the release schedule #cloud on twitter.,195,157
+855,2023-08-02,mastodon,excited for the feature #ml on mastodon.,215,161
+856,2023-08-02,twitter,attending the webinar #opensource on twitter.,82,87
+857,2023-08-03,mastodon,pleasant surprise #productivity on mastodon.,309,165
+858,2023-08-03,threads,happy with the results #sustainability on threads.,266,115
+859,2023-08-03,reddit,terrible outage #ai on reddit.,372,60
+860,2023-08-03,reddit,checking the dashboard #dataviz on reddit.,203,26
+861,2023-08-04,twitter,happy with the results #ai on twitter.,394,101
+862,2023-08-04,mastodon,frustrating bug #opensource on mastodon.,316,39
+863,2023-08-04,reddit,solid improvement #productivity on reddit.,126,188
+864,2023-08-04,threads,excited for the feature #ml on threads.,429,43
+865,2023-08-05,instagram,pleasant surprise #sustainability on instagram.,239,138
+866,2023-08-05,threads,noting the release schedule #ml on threads.,90,151
+867,2023-08-05,mastodon,confusing instructions #productivity on mastodon.,246,138
+868,2023-08-05,mastodon,fantastic release #cloud on mastodon.,187,105
+869,2023-08-06,twitter,amazing support #ai on twitter.,267,194
+870,2023-08-06,instagram,reviewing the metrics #productivity on instagram.,273,2
+871,2023-08-06,mastodon,noting the release schedule #cloud on mastodon.,4,196
+872,2023-08-06,twitter,awful UI change #dataviz on twitter.,280,95
+873,2023-08-07,reddit,solid improvement #security on reddit.,83,183
+874,2023-08-07,reddit,attending the webinar #security on reddit.,134,20
+875,2023-08-07,mastodon,disappointed with the update #productivity on mastodon.,332,190
+876,2023-08-07,reddit,awful UI change #security on reddit.,436,17
+877,2023-08-08,instagram,amazing support #opensource on instagram.,316,115
+878,2023-08-08,mastodon,happy with the results #dataviz on mastodon.,9,38
+879,2023-08-08,twitter,love the new update #ml on twitter.,144,68
+880,2023-08-08,reddit,happy with the results #ai on reddit.,46,38
+881,2023-08-09,instagram,great experience #sustainability on instagram.,159,127
+882,2023-08-09,mastodon,noting the release schedule #ai on mastodon.,41,192
+883,2023-08-09,instagram,reading the announcement #productivity on instagram.,36,139
+884,2023-08-09,instagram,disappointed with the update #productivity on instagram.,424,3
+885,2023-08-10,instagram,great experience #security on instagram.,126,188
+886,2023-08-10,twitter,sharing the documentation #cloud on twitter.,266,170
+887,2023-08-10,mastodon,noting the release schedule #security on mastodon.,479,82
+888,2023-08-10,mastodon,love the new update #opensource on mastodon.,246,163
+889,2023-08-11,reddit,pleasant surprise #ai on reddit.,498,28
+890,2023-08-11,twitter,solid improvement #sustainability on twitter.,85,70
+891,2023-08-11,twitter,confusing instructions #dataviz on twitter.,496,10
+892,2023-08-11,mastodon,unhappy with support #ml on mastodon.,394,22
+893,2023-08-12,threads,happy with the results #opensource on threads.,173,194
+894,2023-08-12,reddit,reading the announcement #sustainability on reddit.,359,137
+895,2023-08-12,reddit,monitoring the rollout #cloud on reddit.,162,142
+896,2023-08-12,reddit,reviewing the metrics #cloud on reddit.,10,176
+897,2023-08-13,twitter,excited for the feature #productivity on twitter.,248,180
+898,2023-08-13,reddit,awful UI change #cloud on reddit.,290,47
+899,2023-08-13,mastodon,slow performance #cloud on mastodon.,444,153
+900,2023-08-13,threads,monitoring the rollout #opensource on threads.,79,115
+901,2023-08-14,instagram,amazing support #sustainability on instagram.,0,198
+902,2023-08-14,twitter,attending the webinar #ml on twitter.,317,93
+903,2023-08-14,twitter,sharing the documentation #sustainability on twitter.,337,137
+904,2023-08-14,threads,sharing the documentation #cloud on threads.,78,156
+905,2023-08-15,twitter,solid improvement #sustainability on twitter.,49,133
+906,2023-08-15,reddit,reading the announcement #ml on reddit.,447,8
+907,2023-08-15,twitter,happy with the results #dataviz on twitter.,16,146
+908,2023-08-15,threads,attending the webinar #cloud on threads.,319,179
+909,2023-08-16,reddit,bad experience #sustainability on reddit.,310,183
+910,2023-08-16,twitter,great experience #cloud on twitter.,239,163
+911,2023-08-16,twitter,solid improvement #sustainability on twitter.,421,157
+912,2023-08-16,mastodon,love the new update #opensource on mastodon.,39,55
+913,2023-08-17,reddit,checking the dashboard #opensource on reddit.,272,98
+914,2023-08-17,threads,great experience #ml on threads.,383,142
+915,2023-08-17,instagram,frustrating bug #sustainability on instagram.,359,170
+916,2023-08-17,reddit,frustrating bug #ml on reddit.,281,102
+917,2023-08-18,mastodon,terrible outage #cloud on mastodon.,462,80
+918,2023-08-18,instagram,slow performance #sustainability on instagram.,391,162
+919,2023-08-18,threads,slow performance #dataviz on threads.,279,54
+920,2023-08-18,instagram,amazing support #sustainability on instagram.,229,101
+921,2023-08-19,threads,love the new update #productivity on threads.,8,132
+922,2023-08-19,mastodon,amazing support #ai on mastodon.,113,54
+923,2023-08-19,threads,reading the announcement #productivity on threads.,261,142
+924,2023-08-19,twitter,terrible outage #opensource on twitter.,235,91
+925,2023-08-20,threads,amazing support #sustainability on threads.,127,59
+926,2023-08-20,threads,amazing support #opensource on threads.,204,145
+927,2023-08-20,instagram,checking the dashboard #sustainability on instagram.,88,124
+928,2023-08-20,twitter,checking the dashboard #productivity on twitter.,374,147
+929,2023-08-21,mastodon,love the new update #sustainability on mastodon.,450,111
+930,2023-08-21,threads,frustrating bug #dataviz on threads.,475,2
+931,2023-08-21,mastodon,attending the webinar #ai on mastodon.,268,10
+932,2023-08-21,threads,excited for the feature #sustainability on threads.,357,56
+933,2023-08-22,threads,solid improvement #cloud on threads.,294,129
+934,2023-08-22,instagram,solid improvement #productivity on instagram.,75,33
+935,2023-08-22,threads,happy with the results #ai on threads.,204,67
+936,2023-08-22,reddit,solid improvement #ml on reddit.,246,143
+937,2023-08-23,threads,solid improvement #dataviz on threads.,315,188
+938,2023-08-23,mastodon,disappointed with the update #opensource on mastodon.,397,110
+939,2023-08-23,instagram,fantastic release #opensource on instagram.,216,93
+940,2023-08-23,threads,pleasant surprise #sustainability on threads.,335,6
+941,2023-08-24,threads,monitoring the rollout #sustainability on threads.,420,113
+942,2023-08-24,reddit,noting the release schedule #ai on reddit.,102,175
+943,2023-08-24,twitter,fantastic release #opensource on twitter.,124,158
+944,2023-08-24,mastodon,running the demo #ai on mastodon.,355,28
+945,2023-08-25,mastodon,happy with the results #ai on mastodon.,107,189
+946,2023-08-25,threads,disappointed with the update #productivity on threads.,247,159
+947,2023-08-25,instagram,monitoring the rollout #ai on instagram.,298,169
+948,2023-08-25,twitter,awful UI change #ml on twitter.,145,51
+949,2023-08-26,instagram,running the demo #ai on instagram.,335,2
+950,2023-08-26,twitter,amazing support #sustainability on twitter.,9,74
+951,2023-08-26,instagram,attending the webinar #dataviz on instagram.,260,181
+952,2023-08-26,threads,pleasant surprise #cloud on threads.,272,22
+953,2023-08-27,twitter,happy with the results #ai on twitter.,126,135
+954,2023-08-27,reddit,happy with the results #security on reddit.,9,88
+955,2023-08-27,reddit,reviewing the metrics #productivity on reddit.,500,128
+956,2023-08-27,instagram,love the new update #productivity on instagram.,455,7
+957,2023-08-28,reddit,running the demo #dataviz on reddit.,174,100
+958,2023-08-28,threads,checking the dashboard #security on threads.,491,173
+959,2023-08-28,reddit,sharing the documentation #security on reddit.,293,39
+960,2023-08-28,instagram,awful UI change #sustainability on instagram.,277,33
+961,2023-08-29,reddit,excited for the feature #dataviz on reddit.,158,176
+962,2023-08-29,reddit,monitoring the rollout #security on reddit.,335,144
+963,2023-08-29,threads,reviewing the metrics #opensource on threads.,272,184
+964,2023-08-29,twitter,pleasant surprise #ml on twitter.,391,81
+965,2023-08-30,mastodon,attending the webinar #security on mastodon.,226,190
+966,2023-08-30,reddit,running the demo #ml on reddit.,54,33
+967,2023-08-30,threads,amazing support #dataviz on threads.,118,59
+968,2023-08-30,instagram,reviewing the metrics #opensource on instagram.,68,128
+969,2023-08-31,reddit,noting the release schedule #sustainability on reddit.,436,99
+970,2023-08-31,reddit,terrible outage #ml on reddit.,115,8
+971,2023-08-31,instagram,bad experience #productivity on instagram.,113,190
+972,2023-08-31,twitter,sharing the documentation #dataviz on twitter.,90,112
+973,2023-09-01,instagram,noting the release schedule #sustainability on instagram.,454,63
+974,2023-09-01,mastodon,bad experience #security on mastodon.,201,156
+975,2023-09-01,instagram,reading the announcement #opensource on instagram.,233,10
+976,2023-09-01,twitter,sharing the documentation #security on twitter.,285,99
+977,2023-09-02,mastodon,bad experience #dataviz on mastodon.,225,101
+978,2023-09-02,reddit,running the demo #cloud on reddit.,216,75
+979,2023-09-02,instagram,reading the announcement #ml on instagram.,424,165
+980,2023-09-02,threads,frustrating bug #ml on threads.,480,178
+981,2023-09-03,mastodon,confusing instructions #security on mastodon.,230,6
+982,2023-09-03,twitter,great experience #cloud on twitter.,128,82
+983,2023-09-03,twitter,monitoring the rollout #opensource on twitter.,58,180
+984,2023-09-03,threads,slow performance #opensource on threads.,362,98
+985,2023-09-04,threads,monitoring the rollout #security on threads.,194,11
+986,2023-09-04,reddit,reviewing the metrics #ml on reddit.,444,37
+987,2023-09-04,mastodon,love the new update #security on mastodon.,158,186
+988,2023-09-04,reddit,noting the release schedule #productivity on reddit.,60,33
+989,2023-09-05,twitter,reading the announcement #productivity on twitter.,234,127
+990,2023-09-05,reddit,reading the announcement #cloud on reddit.,111,150
+991,2023-09-05,instagram,noting the release schedule #security on instagram.,40,153
+992,2023-09-05,threads,sharing the documentation #productivity on threads.,321,142
+993,2023-09-06,reddit,sharing the documentation #ai on reddit.,75,14
+994,2023-09-06,twitter,reading the announcement #ml on twitter.,341,147
+995,2023-09-06,twitter,running the demo #sustainability on twitter.,25,27
+996,2023-09-06,mastodon,terrible outage #ml on mastodon.,312,169
+997,2023-09-07,threads,monitoring the rollout #cloud on threads.,184,9
+998,2023-09-07,mastodon,amazing support #sustainability on mastodon.,459,97
+999,2023-09-07,mastodon,attending the webinar #opensource on mastodon.,241,34
+1000,2023-09-07,threads,amazing support #sustainability on threads.,211,134
+1001,2023-09-08,twitter,great experience #ai on twitter.,292,186
+1002,2023-09-08,threads,checking the dashboard #cloud on threads.,478,180
+1003,2023-09-08,threads,pleasant surprise #productivity on threads.,294,159
+1004,2023-09-08,threads,excited for the feature #cloud on threads.,373,161
+1005,2023-09-09,mastodon,terrible outage #dataviz on mastodon.,99,0
+1006,2023-09-09,reddit,happy with the results #opensource on reddit.,409,157
+1007,2023-09-09,mastodon,attending the webinar #ai on mastodon.,179,143
+1008,2023-09-09,reddit,sharing the documentation #ai on reddit.,353,72
+1009,2023-09-10,mastodon,fantastic release #productivity on mastodon.,259,140
+1010,2023-09-10,mastodon,love the new update #opensource on mastodon.,174,101
+1011,2023-09-10,reddit,reading the announcement #ml on reddit.,169,86
+1012,2023-09-10,twitter,noting the release schedule #cloud on twitter.,330,34
+1013,2023-09-11,instagram,unhappy with support #sustainability on instagram.,401,105
+1014,2023-09-11,threads,reading the announcement #productivity on threads.,371,173
+1015,2023-09-11,threads,love the new update #dataviz on threads.,350,84
+1016,2023-09-11,reddit,reviewing the metrics #opensource on reddit.,143,7
+1017,2023-09-12,threads,solid improvement #ml on threads.,310,99
+1018,2023-09-12,mastodon,fantastic release #productivity on mastodon.,363,8
+1019,2023-09-12,reddit,fantastic release #cloud on reddit.,190,115
+1020,2023-09-12,threads,running the demo #dataviz on threads.,154,44
+1021,2023-09-13,twitter,love the new update #dataviz on twitter.,227,129
+1022,2023-09-13,reddit,happy with the results #ml on reddit.,174,123
+1023,2023-09-13,reddit,running the demo #sustainability on reddit.,393,25
+1024,2023-09-13,twitter,monitoring the rollout #dataviz on twitter.,235,99
+1025,2023-09-14,mastodon,checking the dashboard #ai on mastodon.,477,11
+1026,2023-09-14,instagram,checking the dashboard #sustainability on instagram.,455,11
+1027,2023-09-14,threads,amazing support #ai on threads.,388,79
+1028,2023-09-14,reddit,sharing the documentation #sustainability on reddit.,98,73
+1029,2023-09-15,twitter,pleasant surprise #cloud on twitter.,139,38
+1030,2023-09-15,threads,fantastic release #ai on threads.,286,131
+1031,2023-09-15,mastodon,pleasant surprise #sustainability on mastodon.,72,180
+1032,2023-09-15,twitter,sharing the documentation #ml on twitter.,159,156
+1033,2023-09-16,reddit,noting the release schedule #ai on reddit.,14,120
+1034,2023-09-16,instagram,reading the announcement #opensource on instagram.,27,22
+1035,2023-09-16,threads,terrible outage #cloud on threads.,182,79
+1036,2023-09-16,instagram,great experience #opensource on instagram.,290,33
+1037,2023-09-17,instagram,happy with the results #opensource on instagram.,158,175
+1038,2023-09-17,reddit,noting the release schedule #cloud on reddit.,485,57
+1039,2023-09-17,instagram,amazing support #sustainability on instagram.,93,179
+1040,2023-09-17,instagram,reviewing the metrics #sustainability on instagram.,249,7
+1041,2023-09-18,instagram,fantastic release #sustainability on instagram.,236,43
+1042,2023-09-18,threads,pleasant surprise #ml on threads.,52,103
+1043,2023-09-18,threads,checking the dashboard #sustainability on threads.,332,18
+1044,2023-09-18,threads,noting the release schedule #security on threads.,211,61
+1045,2023-09-19,instagram,monitoring the rollout #cloud on instagram.,33,87
+1046,2023-09-19,threads,solid improvement #security on threads.,403,87
+1047,2023-09-19,twitter,disappointed with the update #ml on twitter.,378,182
+1048,2023-09-19,threads,unhappy with support #opensource on threads.,305,118
+1049,2023-09-20,reddit,fantastic release #cloud on reddit.,157,103
+1050,2023-09-20,mastodon,fantastic release #security on mastodon.,253,165
+1051,2023-09-20,reddit,checking the dashboard #dataviz on reddit.,454,148
+1052,2023-09-20,reddit,reading the announcement #ml on reddit.,231,136
+1053,2023-09-21,reddit,happy with the results #dataviz on reddit.,348,81
+1054,2023-09-21,mastodon,amazing support #security on mastodon.,45,149
+1055,2023-09-21,mastodon,solid improvement #ml on mastodon.,31,94
+1056,2023-09-21,threads,reading the announcement #ai on threads.,420,91
+1057,2023-09-22,reddit,amazing support #ai on reddit.,221,179
+1058,2023-09-22,instagram,slow performance #security on instagram.,195,111
+1059,2023-09-22,reddit,terrible outage #cloud on reddit.,96,142
+1060,2023-09-22,reddit,pleasant surprise #security on reddit.,147,171
+1061,2023-09-23,twitter,love the new update #opensource on twitter.,73,184
+1062,2023-09-23,twitter,attending the webinar #ml on twitter.,70,164
+1063,2023-09-23,threads,noting the release schedule #security on threads.,92,116
+1064,2023-09-23,mastodon,unhappy with support #security on mastodon.,115,47
+1065,2023-09-24,reddit,bad experience #cloud on reddit.,364,128
+1066,2023-09-24,twitter,pleasant surprise #ai on twitter.,290,123
+1067,2023-09-24,twitter,checking the dashboard #cloud on twitter.,72,186
+1068,2023-09-24,threads,running the demo #cloud on threads.,40,133
+1069,2023-09-25,instagram,checking the dashboard #dataviz on instagram.,322,189
+1070,2023-09-25,threads,checking the dashboard #productivity on threads.,27,87
+1071,2023-09-25,instagram,bad experience #cloud on instagram.,262,120
+1072,2023-09-25,mastodon,slow performance #security on mastodon.,491,75
+1073,2023-09-26,threads,love the new update #productivity on threads.,133,15
+1074,2023-09-26,mastodon,monitoring the rollout #ai on mastodon.,414,188
+1075,2023-09-26,twitter,running the demo #cloud on twitter.,64,129
+1076,2023-09-26,reddit,amazing support #productivity on reddit.,315,71
+1077,2023-09-27,twitter,amazing support #ai on twitter.,309,44
+1078,2023-09-27,mastodon,monitoring the rollout #cloud on mastodon.,413,44
+1079,2023-09-27,reddit,great experience #cloud on reddit.,409,135
+1080,2023-09-27,reddit,reviewing the metrics #opensource on reddit.,304,39
+1081,2023-09-28,reddit,attending the webinar #security on reddit.,338,112
+1082,2023-09-28,threads,monitoring the rollout #dataviz on threads.,375,88
+1083,2023-09-28,twitter,amazing support #opensource on twitter.,85,118
+1084,2023-09-28,threads,amazing support #cloud on threads.,119,97
+1085,2023-09-29,mastodon,attending the webinar #cloud on mastodon.,74,135
+1086,2023-09-29,instagram,reading the announcement #productivity on instagram.,195,173
+1087,2023-09-29,threads,love the new update #opensource on threads.,326,90
+1088,2023-09-29,mastodon,attending the webinar #productivity on mastodon.,138,68
+1089,2023-09-30,instagram,running the demo #security on instagram.,395,172
+1090,2023-09-30,reddit,sharing the documentation #sustainability on reddit.,160,140
+1091,2023-09-30,twitter,love the new update #opensource on twitter.,210,25
+1092,2023-09-30,reddit,unhappy with support #sustainability on reddit.,371,72
+1093,2023-10-01,threads,love the new update #ai on threads.,47,14
+1094,2023-10-01,twitter,sharing the documentation #opensource on twitter.,44,154
+1095,2023-10-01,reddit,excited for the feature #opensource on reddit.,129,75
+1096,2023-10-01,mastodon,frustrating bug #cloud on mastodon.,393,109
+1097,2023-10-02,reddit,reviewing the metrics #productivity on reddit.,399,18
+1098,2023-10-02,instagram,love the new update #security on instagram.,170,15
+1099,2023-10-02,instagram,amazing support #ml on instagram.,35,125
+1100,2023-10-02,reddit,sharing the documentation #security on reddit.,330,125
+1101,2023-10-03,threads,solid improvement #dataviz on threads.,329,27
+1102,2023-10-03,twitter,running the demo #opensource on twitter.,37,18
+1103,2023-10-03,twitter,awful UI change #cloud on twitter.,459,127
+1104,2023-10-03,instagram,love the new update #ai on instagram.,136,38
+1105,2023-10-04,threads,attending the webinar #ai on threads.,362,197
+1106,2023-10-04,twitter,confusing instructions #security on twitter.,276,57
+1107,2023-10-04,threads,happy with the results #opensource on threads.,274,91
+1108,2023-10-04,twitter,amazing support #security on twitter.,323,165
+1109,2023-10-05,instagram,pleasant surprise #opensource on instagram.,389,196
+1110,2023-10-05,threads,great experience #ml on threads.,20,98
+1111,2023-10-05,twitter,running the demo #security on twitter.,322,176
+1112,2023-10-05,reddit,fantastic release #cloud on reddit.,71,9
+1113,2023-10-06,instagram,great experience #cloud on instagram.,32,138
+1114,2023-10-06,twitter,noting the release schedule #cloud on twitter.,18,86
+1115,2023-10-06,twitter,love the new update #security on twitter.,108,167
+1116,2023-10-06,threads,noting the release schedule #ml on threads.,119,18
+1117,2023-10-07,twitter,excited for the feature #cloud on twitter.,241,158
+1118,2023-10-07,reddit,excited for the feature #ai on reddit.,323,12
+1119,2023-10-07,threads,checking the dashboard #cloud on threads.,87,151
+1120,2023-10-07,instagram,fantastic release #opensource on instagram.,304,157
+1121,2023-10-08,mastodon,great experience #security on mastodon.,415,188
+1122,2023-10-08,threads,reviewing the metrics #opensource on threads.,279,35
+1123,2023-10-08,threads,great experience #ai on threads.,88,85
+1124,2023-10-08,instagram,amazing support #ml on instagram.,86,178
+1125,2023-10-09,reddit,excited for the feature #cloud on reddit.,473,148
+1126,2023-10-09,reddit,fantastic release #security on reddit.,8,124
+1127,2023-10-09,twitter,love the new update #ml on twitter.,361,166
+1128,2023-10-09,instagram,awful UI change #security on instagram.,354,32
+1129,2023-10-10,instagram,amazing support #cloud on instagram.,122,44
+1130,2023-10-10,instagram,reading the announcement #ml on instagram.,313,22
+1131,2023-10-10,instagram,running the demo #sustainability on instagram.,2,142
+1132,2023-10-10,threads,fantastic release #opensource on threads.,185,194
+1133,2023-10-11,reddit,sharing the documentation #cloud on reddit.,141,13
+1134,2023-10-11,instagram,excited for the feature #cloud on instagram.,90,40
+1135,2023-10-11,mastodon,reading the announcement #ai on mastodon.,145,53
+1136,2023-10-11,twitter,slow performance #cloud on twitter.,53,189
+1137,2023-10-12,twitter,excited for the feature #ml on twitter.,248,131
+1138,2023-10-12,threads,great experience #cloud on threads.,296,83
+1139,2023-10-12,twitter,slow performance #dataviz on twitter.,166,58
+1140,2023-10-12,instagram,solid improvement #dataviz on instagram.,456,56
+1141,2023-10-13,instagram,happy with the results #ai on instagram.,74,55
+1142,2023-10-13,instagram,noting the release schedule #ml on instagram.,191,34
+1143,2023-10-13,mastodon,disappointed with the update #sustainability on mastodon.,103,85
+1144,2023-10-13,reddit,love the new update #productivity on reddit.,56,119
+1145,2023-10-14,reddit,terrible outage #sustainability on reddit.,453,75
+1146,2023-10-14,twitter,monitoring the rollout #dataviz on twitter.,210,133
+1147,2023-10-14,instagram,disappointed with the update #cloud on instagram.,142,3
+1148,2023-10-14,mastodon,sharing the documentation #dataviz on mastodon.,222,148
+1149,2023-10-15,instagram,excited for the feature #ai on instagram.,22,10
+1150,2023-10-15,threads,reading the announcement #security on threads.,201,122
+1151,2023-10-15,instagram,checking the dashboard #cloud on instagram.,123,21
+1152,2023-10-15,reddit,bad experience #security on reddit.,67,91
+1153,2023-10-16,instagram,fantastic release #ai on instagram.,342,78
+1154,2023-10-16,instagram,happy with the results #ai on instagram.,237,197
+1155,2023-10-16,mastodon,solid improvement #ml on mastodon.,320,118
+1156,2023-10-16,instagram,reading the announcement #opensource on instagram.,457,176
+1157,2023-10-17,instagram,love the new update #productivity on instagram.,385,69
+1158,2023-10-17,threads,sharing the documentation #opensource on threads.,450,85
+1159,2023-10-17,twitter,reading the announcement #sustainability on twitter.,56,98
+1160,2023-10-17,mastodon,love the new update #sustainability on mastodon.,89,165
+1161,2023-10-18,reddit,frustrating bug #dataviz on reddit.,171,61
+1162,2023-10-18,reddit,unhappy with support #dataviz on reddit.,164,90
+1163,2023-10-18,twitter,attending the webinar #productivity on twitter.,32,95
+1164,2023-10-18,instagram,happy with the results #opensource on instagram.,363,136
+1165,2023-10-19,threads,running the demo #cloud on threads.,188,172
+1166,2023-10-19,instagram,checking the dashboard #dataviz on instagram.,44,20
+1167,2023-10-19,twitter,excited for the feature #productivity on twitter.,55,42
+1168,2023-10-19,reddit,excited for the feature #cloud on reddit.,447,52
+1169,2023-10-20,instagram,bad experience #productivity on instagram.,496,174
+1170,2023-10-20,mastodon,terrible outage #cloud on mastodon.,215,113
+1171,2023-10-20,reddit,reading the announcement #productivity on reddit.,32,5
+1172,2023-10-20,instagram,sharing the documentation #sustainability on instagram.,296,87
+1173,2023-10-21,threads,reviewing the metrics #cloud on threads.,340,178
+1174,2023-10-21,mastodon,unhappy with support #cloud on mastodon.,290,33
+1175,2023-10-21,mastodon,running the demo #ml on mastodon.,116,123
+1176,2023-10-21,reddit,amazing support #ai on reddit.,180,72
+1177,2023-10-22,threads,terrible outage #ml on threads.,146,46
+1178,2023-10-22,reddit,monitoring the rollout #ml on reddit.,59,10
+1179,2023-10-22,mastodon,monitoring the rollout #cloud on mastodon.,189,47
+1180,2023-10-22,mastodon,love the new update #sustainability on mastodon.,75,95
+1181,2023-10-23,twitter,terrible outage #productivity on twitter.,471,6
+1182,2023-10-23,instagram,unhappy with support #ml on instagram.,475,81
+1183,2023-10-23,instagram,pleasant surprise #productivity on instagram.,458,74
+1184,2023-10-23,mastodon,monitoring the rollout #cloud on mastodon.,352,28
+1185,2023-10-24,threads,reading the announcement #ml on threads.,59,78
+1186,2023-10-24,mastodon,great experience #cloud on mastodon.,47,83
+1187,2023-10-24,mastodon,great experience #dataviz on mastodon.,100,5
+1188,2023-10-24,threads,happy with the results #opensource on threads.,201,49
+1189,2023-10-25,instagram,bad experience #sustainability on instagram.,75,183
+1190,2023-10-25,mastodon,reviewing the metrics #security on mastodon.,6,72
+1191,2023-10-25,threads,amazing support #cloud on threads.,44,55
+1192,2023-10-25,instagram,noting the release schedule #security on instagram.,147,41
+1193,2023-10-26,reddit,attending the webinar #security on reddit.,427,150
+1194,2023-10-26,mastodon,terrible outage #dataviz on mastodon.,243,134
+1195,2023-10-26,twitter,checking the dashboard #security on twitter.,3,104
+1196,2023-10-26,reddit,running the demo #security on reddit.,284,118
+1197,2023-10-27,reddit,monitoring the rollout #dataviz on reddit.,426,97
+1198,2023-10-27,mastodon,happy with the results #ai on mastodon.,427,149
+1199,2023-10-27,twitter,happy with the results #dataviz on twitter.,405,0
+1200,2023-10-27,twitter,amazing support #cloud on twitter.,334,170
+1201,2023-10-28,instagram,attending the webinar #ml on instagram.,464,176
+1202,2023-10-28,mastodon,reading the announcement #opensource on mastodon.,252,17
+1203,2023-10-28,threads,slow performance #cloud on threads.,223,66
+1204,2023-10-28,mastodon,noting the release schedule #opensource on mastodon.,262,187
+1205,2023-10-29,threads,awful UI change #ml on threads.,29,37
+1206,2023-10-29,reddit,excited for the feature #sustainability on reddit.,27,69
+1207,2023-10-29,mastodon,pleasant surprise #ai on mastodon.,149,135
+1208,2023-10-29,reddit,checking the dashboard #dataviz on reddit.,391,24
+1209,2023-10-30,mastodon,terrible outage #sustainability on mastodon.,423,175
+1210,2023-10-30,twitter,running the demo #sustainability on twitter.,273,148
+1211,2023-10-30,reddit,excited for the feature #ai on reddit.,265,72
+1212,2023-10-30,mastodon,happy with the results #security on mastodon.,471,41
+1213,2023-10-31,reddit,excited for the feature #dataviz on reddit.,407,143
+1214,2023-10-31,instagram,checking the dashboard #security on instagram.,469,19
+1215,2023-10-31,instagram,excited for the feature #ai on instagram.,178,79
+1216,2023-10-31,threads,monitoring the rollout #cloud on threads.,267,195
+1217,2023-11-01,twitter,monitoring the rollout #productivity on twitter.,381,30
+1218,2023-11-01,mastodon,excited for the feature #dataviz on mastodon.,64,53
+1219,2023-11-01,twitter,fantastic release #security on twitter.,39,4
+1220,2023-11-01,reddit,attending the webinar #ai on reddit.,55,8
+1221,2023-11-02,twitter,reading the announcement #cloud on twitter.,465,64
+1222,2023-11-02,twitter,amazing support #ai on twitter.,400,31
+1223,2023-11-02,reddit,sharing the documentation #dataviz on reddit.,343,89
+1224,2023-11-02,threads,excited for the feature #productivity on threads.,178,90
+1225,2023-11-03,twitter,great experience #opensource on twitter.,419,148
+1226,2023-11-03,mastodon,sharing the documentation #dataviz on mastodon.,87,193
+1227,2023-11-03,threads,frustrating bug #dataviz on threads.,435,181
+1228,2023-11-03,twitter,terrible outage #cloud on twitter.,92,90
+1229,2023-11-04,threads,attending the webinar #dataviz on threads.,116,104
+1230,2023-11-04,instagram,pleasant surprise #opensource on instagram.,56,133
+1231,2023-11-04,threads,pleasant surprise #productivity on threads.,369,10
+1232,2023-11-04,instagram,happy with the results #opensource on instagram.,145,116
+1233,2023-11-05,reddit,running the demo #cloud on reddit.,283,104
+1234,2023-11-05,twitter,solid improvement #dataviz on twitter.,458,121
+1235,2023-11-05,twitter,reviewing the metrics #ml on twitter.,345,125
+1236,2023-11-05,threads,attending the webinar #cloud on threads.,337,173
+1237,2023-11-06,instagram,excited for the feature #security on instagram.,355,151
+1238,2023-11-06,mastodon,monitoring the rollout #opensource on mastodon.,499,50
+1239,2023-11-06,reddit,solid improvement #opensource on reddit.,429,108
+1240,2023-11-06,instagram,running the demo #productivity on instagram.,182,121
+1241,2023-11-07,threads,attending the webinar #cloud on threads.,142,37
+1242,2023-11-07,mastodon,checking the dashboard #opensource on mastodon.,250,127
+1243,2023-11-07,twitter,excited for the feature #ai on twitter.,377,13
+1244,2023-11-07,reddit,noting the release schedule #ai on reddit.,195,154
+1245,2023-11-08,threads,monitoring the rollout #productivity on threads.,319,24
+1246,2023-11-08,reddit,noting the release schedule #cloud on reddit.,150,169
+1247,2023-11-08,threads,awful UI change #sustainability on threads.,279,4
+1248,2023-11-08,twitter,reading the announcement #security on twitter.,196,115
+1249,2023-11-09,instagram,solid improvement #cloud on instagram.,18,8
+1250,2023-11-09,instagram,amazing support #ml on instagram.,220,34
+1251,2023-11-09,twitter,solid improvement #cloud on twitter.,291,172
+1252,2023-11-09,threads,unhappy with support #cloud on threads.,437,40
+1253,2023-11-10,instagram,confusing instructions #productivity on instagram.,302,96
+1254,2023-11-10,mastodon,reviewing the metrics #productivity on mastodon.,31,7
+1255,2023-11-10,mastodon,terrible outage #sustainability on mastodon.,414,189
+1256,2023-11-10,twitter,slow performance #security on twitter.,219,88
+1257,2023-11-11,twitter,attending the webinar #sustainability on twitter.,338,62
+1258,2023-11-11,twitter,amazing support #opensource on twitter.,444,78
+1259,2023-11-11,threads,excited for the feature #ai on threads.,166,9
+1260,2023-11-11,mastodon,confusing instructions #security on mastodon.,10,178
+1261,2023-11-12,instagram,bad experience #sustainability on instagram.,292,99
+1262,2023-11-12,twitter,fantastic release #cloud on twitter.,353,172
+1263,2023-11-12,reddit,happy with the results #sustainability on reddit.,314,76
+1264,2023-11-12,instagram,solid improvement #dataviz on instagram.,325,19
+1265,2023-11-13,mastodon,sharing the documentation #productivity on mastodon.,24,76
+1266,2023-11-13,threads,attending the webinar #dataviz on threads.,380,23
+1267,2023-11-13,mastodon,checking the dashboard #sustainability on mastodon.,34,145
+1268,2023-11-13,reddit,noting the release schedule #security on reddit.,177,19
+1269,2023-11-14,instagram,running the demo #productivity on instagram.,339,138
+1270,2023-11-14,mastodon,solid improvement #security on mastodon.,319,131
+1271,2023-11-14,threads,terrible outage #ai on threads.,441,47
+1272,2023-11-14,mastodon,disappointed with the update #cloud on mastodon.,479,163
+1273,2023-11-15,threads,confusing instructions #ai on threads.,102,93
+1274,2023-11-15,mastodon,disappointed with the update #ml on mastodon.,432,111
+1275,2023-11-15,instagram,frustrating bug #dataviz on instagram.,136,73
+1276,2023-11-15,instagram,running the demo #dataviz on instagram.,122,29
+1277,2023-11-16,mastodon,love the new update #dataviz on mastodon.,237,124
+1278,2023-11-16,twitter,confusing instructions #security on twitter.,103,40
+1279,2023-11-16,mastodon,love the new update #productivity on mastodon.,337,140
+1280,2023-11-16,twitter,love the new update #cloud on twitter.,28,21
+1281,2023-11-17,instagram,amazing support #opensource on instagram.,459,93
+1282,2023-11-17,reddit,checking the dashboard #security on reddit.,120,28
+1283,2023-11-17,instagram,frustrating bug #productivity on instagram.,452,23
+1284,2023-11-17,mastodon,fantastic release #sustainability on mastodon.,426,149
+1285,2023-11-18,reddit,sharing the documentation #security on reddit.,73,27
+1286,2023-11-18,instagram,amazing support #cloud on instagram.,130,150
+1287,2023-11-18,mastodon,pleasant surprise #opensource on mastodon.,279,108
+1288,2023-11-18,reddit,disappointed with the update #productivity on reddit.,185,121
+1289,2023-11-19,threads,running the demo #ai on threads.,17,189
+1290,2023-11-19,mastodon,reading the announcement #dataviz on mastodon.,282,98
+1291,2023-11-19,threads,pleasant surprise #opensource on threads.,443,60
+1292,2023-11-19,instagram,attending the webinar #ai on instagram.,474,65
+1293,2023-11-20,reddit,great experience #productivity on reddit.,440,41
+1294,2023-11-20,twitter,reviewing the metrics #security on twitter.,140,20
+1295,2023-11-20,instagram,noting the release schedule #cloud on instagram.,474,85
+1296,2023-11-20,mastodon,checking the dashboard #ml on mastodon.,259,16
+1297,2023-11-21,twitter,pleasant surprise #cloud on twitter.,390,13
+1298,2023-11-21,reddit,monitoring the rollout #cloud on reddit.,1,102
+1299,2023-11-21,threads,amazing support #sustainability on threads.,42,28
+1300,2023-11-21,mastodon,excited for the feature #security on mastodon.,231,122
+1301,2023-11-22,reddit,monitoring the rollout #productivity on reddit.,351,151
+1302,2023-11-22,twitter,running the demo #dataviz on twitter.,212,94
+1303,2023-11-22,twitter,solid improvement #dataviz on twitter.,485,5
+1304,2023-11-22,instagram,sharing the documentation #opensource on instagram.,101,67
+1305,2023-11-23,instagram,monitoring the rollout #ai on instagram.,316,109
+1306,2023-11-23,mastodon,monitoring the rollout #opensource on mastodon.,87,145
+1307,2023-11-23,instagram,solid improvement #cloud on instagram.,60,57
+1308,2023-11-23,mastodon,sharing the documentation #productivity on mastodon.,382,126
+1309,2023-11-24,threads,solid improvement #dataviz on threads.,110,72
+1310,2023-11-24,reddit,sharing the documentation #security on reddit.,209,37
+1311,2023-11-24,threads,amazing support #dataviz on threads.,230,63
+1312,2023-11-24,twitter,happy with the results #opensource on twitter.,240,34
+1313,2023-11-25,instagram,attending the webinar #dataviz on instagram.,362,108
+1314,2023-11-25,twitter,running the demo #opensource on twitter.,285,15
+1315,2023-11-25,mastodon,great experience #cloud on mastodon.,310,171
+1316,2023-11-25,mastodon,reading the announcement #ai on mastodon.,258,158
+1317,2023-11-26,reddit,solid improvement #sustainability on reddit.,495,143
+1318,2023-11-26,reddit,excited for the feature #productivity on reddit.,257,126
+1319,2023-11-26,twitter,noting the release schedule #ml on twitter.,162,181
+1320,2023-11-26,twitter,terrible outage #productivity on twitter.,160,11
+1321,2023-11-27,mastodon,noting the release schedule #productivity on mastodon.,474,110
+1322,2023-11-27,threads,amazing support #productivity on threads.,160,111
+1323,2023-11-27,reddit,reviewing the metrics #cloud on reddit.,284,168
+1324,2023-11-27,reddit,noting the release schedule #ai on reddit.,76,13
+1325,2023-11-28,mastodon,love the new update #cloud on mastodon.,83,180
+1326,2023-11-28,twitter,frustrating bug #cloud on twitter.,226,91
+1327,2023-11-28,instagram,noting the release schedule #cloud on instagram.,57,184
+1328,2023-11-28,twitter,checking the dashboard #sustainability on twitter.,104,72
+1329,2023-11-29,threads,excited for the feature #productivity on threads.,456,169
+1330,2023-11-29,instagram,bad experience #ml on instagram.,471,19
+1331,2023-11-29,mastodon,happy with the results #opensource on mastodon.,13,72
+1332,2023-11-29,mastodon,checking the dashboard #security on mastodon.,302,27
+1333,2023-11-30,twitter,monitoring the rollout #ai on twitter.,235,181
+1334,2023-11-30,threads,noting the release schedule #productivity on threads.,336,1
+1335,2023-11-30,mastodon,love the new update #cloud on mastodon.,485,187
+1336,2023-11-30,twitter,monitoring the rollout #dataviz on twitter.,410,164
+1337,2023-12-01,threads,love the new update #opensource on threads.,487,154
+1338,2023-12-01,reddit,solid improvement #productivity on reddit.,122,197
+1339,2023-12-01,reddit,checking the dashboard #ai on reddit.,83,99
+1340,2023-12-01,twitter,running the demo #ml on twitter.,152,125
+1341,2023-12-02,mastodon,running the demo #ml on mastodon.,340,24
+1342,2023-12-02,instagram,sharing the documentation #cloud on instagram.,453,99
+1343,2023-12-02,instagram,confusing instructions #opensource on instagram.,415,94
+1344,2023-12-02,twitter,attending the webinar #security on twitter.,20,131
+1345,2023-12-03,reddit,happy with the results #dataviz on reddit.,476,126
+1346,2023-12-03,instagram,frustrating bug #productivity on instagram.,223,20
+1347,2023-12-03,reddit,noting the release schedule #productivity on reddit.,65,175
+1348,2023-12-03,mastodon,sharing the documentation #security on mastodon.,291,12
+1349,2023-12-04,threads,bad experience #opensource on threads.,217,105
+1350,2023-12-04,mastodon,amazing support #sustainability on mastodon.,299,20
+1351,2023-12-04,instagram,reading the announcement #opensource on instagram.,91,46
+1352,2023-12-04,instagram,reading the announcement #opensource on instagram.,448,180
+1353,2023-12-05,threads,happy with the results #cloud on threads.,413,67
+1354,2023-12-05,reddit,excited for the feature #dataviz on reddit.,40,191
+1355,2023-12-05,instagram,running the demo #opensource on instagram.,273,4
+1356,2023-12-05,reddit,fantastic release #ai on reddit.,335,122
+1357,2023-12-06,mastodon,confusing instructions #cloud on mastodon.,316,157
+1358,2023-12-06,twitter,solid improvement #productivity on twitter.,64,34
+1359,2023-12-06,reddit,fantastic release #ai on reddit.,439,6
+1360,2023-12-06,instagram,excited for the feature #dataviz on instagram.,431,160
+1361,2023-12-07,mastodon,sharing the documentation #opensource on mastodon.,394,118
+1362,2023-12-07,twitter,solid improvement #ai on twitter.,85,39
+1363,2023-12-07,instagram,noting the release schedule #cloud on instagram.,10,115
+1364,2023-12-07,threads,disappointed with the update #productivity on threads.,424,100
+1365,2023-12-08,instagram,love the new update #opensource on instagram.,212,126
+1366,2023-12-08,instagram,running the demo #ai on instagram.,204,124
+1367,2023-12-08,twitter,unhappy with support #dataviz on twitter.,270,4
+1368,2023-12-08,mastodon,slow performance #opensource on mastodon.,457,165
+1369,2023-12-09,instagram,unhappy with support #opensource on instagram.,318,165
+1370,2023-12-09,reddit,solid improvement #ai on reddit.,147,185
+1371,2023-12-09,reddit,pleasant surprise #cloud on reddit.,259,56
+1372,2023-12-09,reddit,slow performance #cloud on reddit.,452,75
+1373,2023-12-10,mastodon,attending the webinar #security on mastodon.,407,120
+1374,2023-12-10,mastodon,monitoring the rollout #dataviz on mastodon.,353,191
+1375,2023-12-10,reddit,happy with the results #ml on reddit.,102,40
+1376,2023-12-10,instagram,checking the dashboard #security on instagram.,155,60
+1377,2023-12-11,mastodon,love the new update #ai on mastodon.,451,66
+1378,2023-12-11,threads,excited for the feature #ml on threads.,16,16
+1379,2023-12-11,twitter,fantastic release #dataviz on twitter.,287,57
+1380,2023-12-11,twitter,slow performance #sustainability on twitter.,394,142
+1381,2023-12-12,twitter,excited for the feature #opensource on twitter.,474,112
+1382,2023-12-12,threads,checking the dashboard #opensource on threads.,312,200
+1383,2023-12-12,threads,checking the dashboard #ai on threads.,53,42
+1384,2023-12-12,reddit,sharing the documentation #sustainability on reddit.,372,74
+1385,2023-12-13,reddit,noting the release schedule #opensource on reddit.,331,93
+1386,2023-12-13,reddit,excited for the feature #opensource on reddit.,224,106
+1387,2023-12-13,instagram,reading the announcement #dataviz on instagram.,174,73
+1388,2023-12-13,mastodon,frustrating bug #productivity on mastodon.,366,193
+1389,2023-12-14,threads,disappointed with the update #ml on threads.,215,58
+1390,2023-12-14,instagram,solid improvement #security on instagram.,459,117
+1391,2023-12-14,instagram,reviewing the metrics #ai on instagram.,74,197
+1392,2023-12-14,mastodon,fantastic release #opensource on mastodon.,161,102
+1393,2023-12-15,twitter,monitoring the rollout #security on twitter.,201,194
+1394,2023-12-15,threads,excited for the feature #ai on threads.,498,75
+1395,2023-12-15,mastodon,awful UI change #sustainability on mastodon.,4,71
+1396,2023-12-15,instagram,monitoring the rollout #security on instagram.,329,52
+1397,2023-12-16,instagram,noting the release schedule #sustainability on instagram.,397,50
+1398,2023-12-16,threads,checking the dashboard #ai on threads.,171,99
+1399,2023-12-16,reddit,monitoring the rollout #productivity on reddit.,47,130
+1400,2023-12-16,twitter,slow performance #ml on twitter.,14,138
+1401,2023-12-17,instagram,disappointed with the update #productivity on instagram.,258,28
+1402,2023-12-17,threads,reviewing the metrics #productivity on threads.,181,31
+1403,2023-12-17,mastodon,fantastic release #cloud on mastodon.,293,188
+1404,2023-12-17,threads,pleasant surprise #dataviz on threads.,289,182
+1405,2023-12-18,mastodon,sharing the documentation #sustainability on mastodon.,145,170
+1406,2023-12-18,threads,monitoring the rollout #security on threads.,377,63
+1407,2023-12-18,instagram,great experience #sustainability on instagram.,50,37
+1408,2023-12-18,twitter,attending the webinar #opensource on twitter.,31,108
+1409,2023-12-19,instagram,noting the release schedule #dataviz on instagram.,39,94
+1410,2023-12-19,mastodon,attending the webinar #security on mastodon.,299,127
+1411,2023-12-19,instagram,noting the release schedule #cloud on instagram.,421,41
+1412,2023-12-19,instagram,excited for the feature #cloud on instagram.,66,180
+1413,2023-12-20,instagram,frustrating bug #dataviz on instagram.,242,8
+1414,2023-12-20,threads,reviewing the metrics #opensource on threads.,436,104
+1415,2023-12-20,twitter,pleasant surprise #productivity on twitter.,267,39
+1416,2023-12-20,mastodon,amazing support #sustainability on mastodon.,150,124
+1417,2023-12-21,threads,excited for the feature #ml on threads.,215,12
+1418,2023-12-21,reddit,running the demo #productivity on reddit.,93,189
+1419,2023-12-21,twitter,frustrating bug #sustainability on twitter.,445,11
+1420,2023-12-21,mastodon,awful UI change #cloud on mastodon.,400,96
+1421,2023-12-22,threads,terrible outage #ml on threads.,325,117
+1422,2023-12-22,mastodon,noting the release schedule #ml on mastodon.,45,159
+1423,2023-12-22,reddit,attending the webinar #security on reddit.,460,101
+1424,2023-12-22,mastodon,love the new update #cloud on mastodon.,330,22
+1425,2023-12-23,threads,reading the announcement #productivity on threads.,330,31
+1426,2023-12-23,threads,checking the dashboard #dataviz on threads.,277,147
+1427,2023-12-23,threads,sharing the documentation #cloud on threads.,459,4
+1428,2023-12-23,mastodon,excited for the feature #ai on mastodon.,402,52
+1429,2023-12-24,threads,happy with the results #opensource on threads.,310,82
+1430,2023-12-24,twitter,bad experience #cloud on twitter.,174,111
+1431,2023-12-24,instagram,love the new update #sustainability on instagram.,131,23
+1432,2023-12-24,mastodon,fantastic release #ml on mastodon.,73,46
+1433,2023-12-25,mastodon,fantastic release #ml on mastodon.,487,104
+1434,2023-12-25,reddit,reading the announcement #sustainability on reddit.,13,182
+1435,2023-12-25,mastodon,solid improvement #opensource on mastodon.,72,105
+1436,2023-12-25,twitter,running the demo #security on twitter.,26,51
+1437,2023-12-26,threads,great experience #cloud on threads.,385,129
+1438,2023-12-26,twitter,fantastic release #productivity on twitter.,162,118
+1439,2023-12-26,twitter,frustrating bug #cloud on twitter.,208,162
+1440,2023-12-26,threads,love the new update #productivity on threads.,493,150
+1441,2023-12-27,mastodon,sharing the documentation #ml on mastodon.,290,104
+1442,2023-12-27,mastodon,disappointed with the update #ml on mastodon.,276,43
+1443,2023-12-27,twitter,attending the webinar #cloud on twitter.,0,118
+1444,2023-12-27,twitter,running the demo #ml on twitter.,30,123
+1445,2023-12-28,mastodon,amazing support #security on mastodon.,431,161
+1446,2023-12-28,reddit,amazing support #ai on reddit.,378,136
+1447,2023-12-28,instagram,awful UI change #opensource on instagram.,357,31
+1448,2023-12-28,reddit,running the demo #security on reddit.,312,129
+1449,2023-12-29,mastodon,reviewing the metrics #sustainability on mastodon.,385,181
+1450,2023-12-29,mastodon,disappointed with the update #sustainability on mastodon.,107,117
+1451,2023-12-29,reddit,reviewing the metrics #ai on reddit.,330,0
+1452,2023-12-29,reddit,reading the announcement #ai on reddit.,211,142
+1453,2023-12-30,threads,noting the release schedule #security on threads.,41,166
+1454,2023-12-30,twitter,reading the announcement #cloud on twitter.,180,96
+1455,2023-12-30,reddit,reviewing the metrics #security on reddit.,429,196
+1456,2023-12-30,instagram,reading the announcement #opensource on instagram.,189,49
+1457,2023-12-31,mastodon,disappointed with the update #ai on mastodon.,348,181
+1458,2023-12-31,reddit,fantastic release #productivity on reddit.,119,126
+1459,2023-12-31,instagram,reading the announcement #productivity on instagram.,463,180
+1460,2023-12-31,reddit,sharing the documentation #ai on reddit.,420,163
