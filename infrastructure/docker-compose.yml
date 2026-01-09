@@ -2,19 +2,12 @@ version: '3.8'
 
 services:
   api:
-    build: .
+    build:
+      context: ..
+      dockerfile: infrastructure/Dockerfile
     ports:
       - "5000:5000"
     volumes:
-      - .:/app
+      - ..:/app
     environment:
       - PYTHONUNBUFFERED=1
-  frontend:
-    build:
-      context: ./frontend
-    ports:
-      - "3000:3000"
-    command: ["npm", "start"]
-    volumes:
-      - ./frontend:/frontend
-    working_dir: /frontend

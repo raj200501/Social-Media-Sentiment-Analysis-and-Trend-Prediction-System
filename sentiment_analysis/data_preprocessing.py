@@ -1,17 +1,21 @@
-import pandas as pd
-import re
+"""Compatibility module for sentiment preprocessing."""
+from __future__ import annotations
 
-def preprocess_text(text):
-    text = re.sub(r'\s+', ' ', text)
-    text = re.sub(r'\W', ' ', text)
-    text = text.lower().strip()
-    return text
+from pathlib import Path
 
-def preprocess_data(file_path):
-    data = pd.read_csv(file_path)
-    data['cleaned_content'] = data['content'].apply(preprocess_text)
-    data.to_csv('data/processed_data.csv', index=False)
+from data.preprocess_data import normalize_text, preprocess_data, tokenize
 
-if __name__ == '__main__':
-    preprocess_data('data/sample_data.csv')
-    print("Data preprocessing complete")
+__all__ = ["normalize_text", "tokenize", "preprocess_data", "preprocess_sentiment_data"]
+
+
+def preprocess_sentiment_data(
+    input_path: str | Path = Path("data/sample_data.csv"),
+    output_path: str | Path = Path("data/processed_data.csv"),
+) -> list[dict[str, str]]:
+    """Alias for preprocess_data to keep sentiment pipeline consistent."""
+    return preprocess_data(input_path=input_path, output_path=output_path)
+
+
+if __name__ == "__main__":
+    preprocess_sentiment_data()
+    print("Sentiment data preprocessing complete")

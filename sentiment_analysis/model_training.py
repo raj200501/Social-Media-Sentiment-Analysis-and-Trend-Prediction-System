@@ -1,53 +1,62 @@
-import pandas as pd
-import torch
-from torch.utils.data import DataLoader, Dataset
-from transformers import BertTokenizer, BertForSequenceClassification, Trainer, TrainingArguments
+"""Train a lightweight baseline sentiment model.
 
-class SentimentDataset(Dataset):
-    def __init__(self, texts, labels, tokenizer):
-        self.texts = texts
-        self.labels = labels
-        self.tokenizer = tokenizer
-    
-    def __len__(self):
-        return len(self.texts)
-    
-    def __getitem__(self, idx):
-        text = self.texts[idx]
-        label = self.labels[idx]
-        inputs = self.tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=512)
-        inputs['labels'] = torch.tensor(label, dtype=torch.long)
-        return inputs
+This module doesn't train a statistical model; instead, it computes summary
+statistics over the labeled data to calibrate threshold ranges. It keeps the
+workflow reproducible without heavy ML dependencies.
+"""
+from __future__ import annotations
 
-def train_model():
-    data = pd.read_csv('data/processed_data.csv')
-    texts = data['cleaned_content'].tolist()
-    labels = data['label'].tolist()
-    
-    tokenizer = BertTokenizer.from_pretrained('meta/bert-sentiment')
-    model = BertForSequenceClassification.from_pretrained('meta/bert-sentiment')
-    dataset = SentimentDataset(texts, labels, tokenizer)
-    data_loader = DataLoader(dataset, batch_size=8, shuffle=True)
-    
-    training_args = TrainingArguments(
-        output_dir='./results',
-        num_train_epochs=3,
-        per_device_train_batch_size=8,
-        per_device_eval_batch_size=8,
-        warmup_steps=500,
-        weight_decay=0.01,
-        logging_dir='./logs',
-        logging_steps=10,
+from dataclasses import dataclass
+from pathlib import Path
+import csv
+
+from sentiment_analysis.sentiment import analyze_sentiment
+
+
+@dataclass(frozen=True)
+class SentimentCalibration:
+    positive_threshold: float
+    negative_threshold: float
+    average_score: float
+
+
+def _read_content(input_path: Path) -> list[str]:
+    with input_path.open("r", encoding="utf-8") as handle:
+        reader = csv.DictReader(handle)
+        return [row["content"] for row in reader]
+
+
+def train_sentiment_baseline(
+    input_path: str | Path = Path("data/processed_data.csv"),
+) -> SentimentCalibration:
+    input_path = Path(input_path)
+    if not input_path.exists():
+        raise FileNotFoundError(
+            f"Processed data not found at {input_path}. Run data/preprocess_data.py first."
+        )
+
+    contents = _read_content(input_path)
+    if not contents:
+        raise ValueError("Processed dataset is empty")
+
+    scores = [analyze_sentiment(text).score for text in contents]
+    average_score = sum(scores) / len(scores)
+
+    positive_threshold = max(0.15, average_score + 0.05)
+    negative_threshold = min(-0.15, average_score - 0.05)
+
+    return SentimentCalibration(
+        positive_threshold=round(positive_threshold, 3),
+        negative_threshold=round(negative_threshold, 3),
+        average_score=round(average_score, 3),
     )
-    
-    trainer = Trainer(
-        model=model,
-        args=training_args,
-        train_dataset=dataset
-    )
-    
-    trainer.train()
 
-if __name__ == '__main__':
-    train_model()
-    print("Model training complete")
+
+def main() -> None:
+    calibration = train_sentiment_baseline()
+    print("Sentiment baseline trained:")
+    print(calibration)
+
+
+if __name__ == "__main__":
+    main()

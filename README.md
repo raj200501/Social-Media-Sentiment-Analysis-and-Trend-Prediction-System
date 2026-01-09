@@ -1,59 +1,85 @@
 # Social Media Sentiment Analysis and Trend Prediction System
 
-This repository contains the code for a system that uses Meta's AI tools to analyze social media posts for sentiment, detect emerging trends, and predict future trends. The project showcases expertise in NLP, machine learning, and data visualization.
+This repository contains a runnable system that ingests social media-style
+posts, analyzes sentiment, detects trending topics, forecasts trend volume, and
+serves a lightweight dashboard. The implementation is intentionally
+lightweight and deterministic so it can run in a clean Python environment
+without heavyweight ML dependencies.
 
 ## Features
 
-- Sentiment Analysis (using Meta AI tools)
-- Trend Detection
-- Trend Prediction
-- Data Visualization
-- Dockerized Deployment
+- Rule-based sentiment analysis with transparent scoring
+- Trend detection based on term frequency
+- Linear regression trend forecasting
+- JSON API + static dashboard (served by the API)
+- Deterministic synthetic dataset and reproducible verification
 
-## Getting Started
+## Prerequisites
 
-### Prerequisites
+- Python 3.11+
+- (Optional) Docker + Docker Compose
 
-- Python 3.8+
-- Node.js
-- Docker
-- Docker Compose
+## Verified Quickstart
 
-### Setup
+The following commands were executed successfully to launch the system:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/social-media-sentiment-trend.git
-    cd social-media-sentiment-trend
-    ```
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python scripts/generate_sample_data.py
+python data/preprocess_data.py
+./scripts/run.sh
+```
 
-2. Build and run the Docker containers:
-    ```bash
-    docker-compose up --build
-    ```
+Then open the dashboard at `http://localhost:5000`.
 
-3. Load and preprocess data:
-    ```bash
-    python data/load_data.py
-    python data/preprocess_data.py
-    ```
+## API Endpoints
 
-4. Train and evaluate models:
-    ```bash
-    jupyter notebook notebooks/ModelTraining.ipynb
-    ```
+| Endpoint | Method | Description |
+| --- | --- | --- |
+| `/health` | GET | Health check used by tests and CI. |
+| `/api/sentiment` | POST | Analyze sentiment for a single post. |
+| `/api/sentiment_data` | GET | Daily average sentiment series. |
+| `/api/trend_data` | GET | Top trend and its daily counts. |
+| `/api/predict` | POST | Forecast trend counts for a given term. |
 
-5. Run the API server:
-    ```bash
-    python backend/api/api_server.py
-    ```
+Example request:
 
-6. Run the frontend:
-    ```bash
-    cd frontend
-    npm install
-    npm start
-    ```
+```bash
+curl -X POST http://localhost:5000/api/sentiment \
+  -H "Content-Type: application/json" \
+  -d '{"text":"I love the new update"}'
+```
+
+## Verified Verification
+
+Run the full deterministic verification suite:
+
+```bash
+./scripts/verify.sh
+```
+
+The script:
+
+1. Regenerates the synthetic dataset.
+2. Runs unit tests.
+3. Starts the API server.
+4. Executes an API smoke test.
+
+## Docker (Optional)
+
+```bash
+docker compose -f infrastructure/docker-compose.yml up --build
+```
+
+The API will be available at `http://localhost:5000`.
+
+## Project documentation
+
+- [Architecture overview](docs/ARCHITECTURE.md)
+- [Data dictionary](docs/DATA_DICTIONARY.md)
+- [Development guide](docs/DEVELOPMENT.md)
 
 ## License
 
