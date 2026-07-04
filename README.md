@@ -13,6 +13,7 @@ without heavyweight ML dependencies.
 - Linear regression trend forecasting
 - JSON API + static dashboard (served by the API)
 - Deterministic synthetic dataset and reproducible verification
+- Xquik CSV, JSON, or JSONL export import for real tweet analysis
 
 ## Prerequisites
 
@@ -66,6 +67,23 @@ The script:
 2. Runs unit tests.
 3. Starts the API server.
 4. Executes an API smoke test.
+
+## Xquik Export Import
+
+Use the importer when you want to replace the synthetic sample data with tweet
+rows exported from Xquik:
+
+```bash
+python scripts/import_xquik_export.py path/to/xquik-export.jsonl
+python data/preprocess_data.py
+./scripts/run.sh
+```
+
+The importer accepts CSV, JSON, and JSONL files. It maps common Xquik export
+fields such as `text`, `content`, `full_text`, `created_at`, `like_count`, and
+`retweet_count` into this project's `data/sample_data.csv` schema. Rows without
+tweet text are skipped, duplicate tweet identifiers are ignored, and missing
+engagement counts default to `0`.
 
 ## Docker (Optional)
 
