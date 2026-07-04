@@ -55,6 +55,11 @@ Several endpoints generate fields on the fly:
 2. `data/preprocess_data.py` validates and enriches the dataset.
 3. The API loads the processed dataset and serves derived metrics.
 
+`scripts/import_xquik_export.py` can replace step 1 with tweet rows exported
+from Xquik. The importer accepts CSV, JSON, and JSONL exports, maps tweet text
+and engagement fields into the raw dataset schema, skips blank text rows, and
+deduplicates repeated tweet identifiers before preprocessing.
+
 ## Determinism
 
 Because the generator uses a fixed random seed, the dataset is identical for

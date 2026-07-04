@@ -8,8 +8,9 @@ import json
 import re
 from typing import Iterable
 
-DEFAULT_INPUT_PATH = Path("data/sample_data.csv")
-DEFAULT_OUTPUT_PATH = Path("data/processed_data.csv")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+DEFAULT_INPUT_PATH = ROOT_DIR / "data" / "sample_data.csv"
+DEFAULT_OUTPUT_PATH = ROOT_DIR / "data" / "processed_data.csv"
 
 WORD_PATTERN = re.compile(r"#\w+|\b\w+\b")
 

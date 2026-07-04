@@ -4,7 +4,8 @@ from __future__ import annotations
 from pathlib import Path
 import csv
 
-DEFAULT_DATA_PATH = Path("data/sample_data.csv")
+ROOT_DIR = Path(__file__).resolve().parent.parent
+DEFAULT_DATA_PATH = ROOT_DIR / "data" / "sample_data.csv"
 
 
 def load_data(file_path: str | Path = DEFAULT_DATA_PATH) -> list[dict[str, str]]:
